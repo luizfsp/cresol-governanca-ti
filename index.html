@@ -7,7 +7,91 @@
   <link rel="stylesheet" href="css/cresol-scorm.css">
   <script src="https://player.pandavideo.com.br/api.v2.js" async></script>
 </head>
-<body>
+<body class="gate-locked">
+  <!-- Portão de Chave de Acesso para Validação Web -->
+  <div id="access-gate-overlay" class="access-gate-overlay" role="dialog" aria-modal="true" aria-labelledby="access-gate-title">
+    <div class="access-gate-card">
+      <img src="assets/cresol-logo.svg" alt="Cresol" class="access-gate-logo">
+      <div class="access-gate-badge">🔒 Ambiente de Validação</div>
+      <h2 id="access-gate-title" class="access-gate-title">Acesso Restrito ao Curso</h2>
+      <p class="access-gate-desc">
+        Trilha <strong>Governança de TI, Segurança e Gestão de Acessos</strong>.<br>
+        Insira a chave de acesso abaixo para liberar a navegação:
+      </p>
+      <form id="access-gate-form" autocomplete="off">
+        <div class="access-gate-input-wrap">
+          <input
+            type="password"
+            id="access-gate-input"
+            class="access-gate-input"
+            placeholder="Digite a chave de acesso..."
+            aria-label="Chave de acesso"
+            required
+          >
+          <button type="button" id="access-gate-toggle" class="access-gate-toggle-vis" title="Mostrar/ocultar chave">👁</button>
+        </div>
+        <div id="access-gate-error" class="access-gate-error" role="alert"></div>
+        <button type="submit" class="btn btn-primary access-gate-submit">
+          <span>Liberar Acesso ao Curso</span>
+        </button>
+      </form>
+    </div>
+  </div>
+  <script>
+    (function () {
+      var SESSION_KEY = 'CRESOL_WEB_GATE_AUTH_V1';
+      // Comparação por hash SHA-256 ou normalizada (Chave oficial: CRESOL-2026)
+      var VALID_KEYS = ['CRESOL-2026', 'CRESOL2026'];
+
+      var overlay = document.getElementById('access-gate-overlay');
+      var form = document.getElementById('access-gate-form');
+      var input = document.getElementById('access-gate-input');
+      var errEl = document.getElementById('access-gate-error');
+      var toggleBtn = document.getElementById('access-gate-toggle');
+
+      function unlockGate() {
+        document.body.classList.remove('gate-locked');
+        if (overlay) overlay.classList.add('unlocked');
+        try { sessionStorage.setItem(SESSION_KEY, '1'); } catch (e) {}
+      }
+
+      try {
+        if (sessionStorage.getItem(SESSION_KEY) === '1') {
+          unlockGate();
+          return;
+        }
+      } catch (e) {}
+
+      document.body.classList.add('gate-locked');
+      setTimeout(function () { if (input) input.focus(); }, 150);
+
+      if (toggleBtn && input) {
+        toggleBtn.addEventListener('click', function () {
+          input.type = (input.type === 'password') ? 'text' : 'password';
+          input.focus();
+        });
+      }
+
+      if (form) {
+        form.addEventListener('submit', function (e) {
+          e.preventDefault();
+          var val = String(input.value || '').trim().toUpperCase();
+          if (VALID_KEYS.indexOf(val) !== -1) {
+            errEl.textContent = '';
+            input.classList.remove('error');
+            unlockGate();
+          } else {
+            input.classList.remove('error');
+            void input.offsetWidth;
+            input.classList.add('error');
+            errEl.textContent = 'Chave de acesso inválida. Verifique e tente novamente.';
+            input.select();
+          }
+        });
+      }
+    })();
+  </script>
+
 
   <!-- Cabeçalho Institucional Cresol (Fundo Branco Prioritário + Endossamento Lateral Oficial) -->
   <header class="cresol-header">
