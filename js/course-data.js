@@ -6,7 +6,7 @@ window.COURSE_DATA = {
   "title": "Curso Completo: Governança de TI, Segurança e Gestão de Acessos (Módulos 1 a 4 + Prova Final)",
   "short_title": "Governança de TI, Segurança e Acessos",
   "subtitle": "Trilha completa unificada contendo os 4 Módulos (21 videoaulas), atividades práticas, Quizzes de Fixação e a Prova Final Integradora.",
-  "overview": "Treinamento corporativo completo do Sistema Cresol sobre Governança de TI, Segurança da Informação (Pilar CIDA), Gestão de Identidades e Acessos (IAM, RBAC, PAM e Zero Trust), Recertificação, Offboarding Automatizado, Cultura de Segurança e Prova Final Integradora.",
+  "overview": "Treinamento corporativo completo do Sistema CRESOL sobre Governança de TI, Segurança da Informação (Pilar CIDA), Gestão de Identidades e Acessos (IAM, RBAC, PAM e Zero Trust), Recertificação, Offboarding Automatizado, Cultura de Segurança e Prova Final Integradora.",
   "lessons": [
     {
       "code": "1.1",
@@ -16,11 +16,11 @@ window.COURSE_DATA = {
       "duration": "06:05",
       "length_sec": 365,
       "video_player": "https://player-vz-a7e961e9-764.tv.pandavideo.com.br/embed/?v=94ec9516-273a-47ee-b9dc-e27daf850a39",
-      "summary": "A aula inaugural apresenta o propósito da trilha de Governança de TI, Segurança e Gestão de Acessos no Sistema Cresol. No cooperativismo financeiro, a confiança é o nosso maior patrimônio: fornecemos soluções financeiras com excelência por meio do relacionamento, e proteger cada transação e informação dos cooperados é parte essencial dessa missão.",
+      "summary": "A aula inaugural apresenta o propósito da trilha de Governança de TI, Segurança e Gestão de Acessos no Sistema CRESOL. No cooperativismo financeiro, a confiança é o nosso maior patrimônio: fornecemos soluções financeiras com excelência por meio do relacionamento, e proteger cada transação e informação dos cooperados é parte essencial dessa missão.",
       "key_points": [
         {
           "title": "Confiança Cooperativista",
-          "desc": "A segurança da informação sustenta a relação de parceria e transparência entre o Sistema Cresol e cada cooperado."
+          "desc": "A segurança da informação sustenta a relação de parceria e transparência entre o Sistema CRESOL e cada cooperado."
         },
         {
           "title": "Alinhamento Estratégico",
@@ -35,37 +35,37 @@ window.COURSE_DATA = {
           "desc": "Desde os Centros Administrativos e agências até a Confederação e Centrais, todos somos guardiões dos ativos digitais."
         }
       ],
-      "cresol_context": "No Sistema Cresol, a evolução contínua e a unificação de processos entre Confederação, Centrais, Cooperativas e Agências exigem padrões sólidos de governança e conformidade regulatória (Banco Central do Brasil e LGPD), garantindo que crescemos todos juntos com segurança.",
+      "cresol_context": "No Sistema CRESOL, a evolução contínua e a unificação de processos entre Confederação, Centrais, Cooperativas e Agências exigem padrões sólidos de governança e conformidade regulatória (Banco Central do Brasil e LGPD), garantindo que crescemos todos juntos com segurança.",
       "best_practices": [
         "Assista às aulas relacionando cada conceito às rotinas da sua área ou unidade.",
         "Utilize o bloco de anotações deste módulo para registrar pontos de melhoria no seu dia a dia.",
-        "Consulte sempre a Política de Segurança da Informação e as normas internas vigentes do Sistema Cresol."
+        "Consulte sempre a Política de Segurança da Informação e as normas internas vigentes do Sistema CRESOL."
       ],
       "scenario": {
         "situation": "Você está recebendo um novo colega na sua unidade e ele comenta: 'Segurança da Informação e Governança são assuntos exclusivos do pessoal técnico de TI da Confederação; nós do atendimento e negócios só precisamos focar nas metas comerciais.'",
-        "question": "Diante dessa visão, qual é a melhor orientação segundo a cultura do Sistema Cresol?",
+        "question": "Diante dessa visão, qual é a melhor orientação segundo a cultura do Sistema CRESOL?",
         "options": [
           "Concordar com o colega, pois os filtros automáticos da TI já bloqueiam qualquer risco sem depender das pessoas.",
-          "Explicar que na Cresol fornecemos soluções financeiras por meio do relacionamento e da confiança, e por isso proteger os dados e acessos dos cooperados é responsabilidade compartilhada por todas as áreas.",
+          "Explicar que na CRESOL fornecemos soluções financeiras por meio do relacionamento e da confiança, e por isso proteger os dados e acessos dos cooperados é responsabilidade compartilhada por todas as áreas.",
           "Orientar que ele só precisa se preocupar com segurança em época de auditoria externa."
         ],
         "correct": 1,
         "feedbacks": [
           "Essa visão é arriscada: nenhuma ferramenta técnica consegue proteger a cooperativa se as pessoas compartilharem senhas ou aprovarem acessos sem critério. Tente outra alternativa!",
-          "Na Cresol, a segurança sustenta a confiança do cooperado. Tecnologia e negócios caminham juntos, e cada colaborador — das agências à Confederação — é guardião das informações.",
+          "Na CRESOL, a segurança sustenta a confiança do cooperado. Tecnologia e negócios caminham juntos, e cada colaborador — das agências à Confederação — é guardião das informações.",
           "Cuidar da segurança apenas durante auditorias deixa a cooperativa vulnerável em todos os outros dias do ano. A proteção precisa ser um hábito diário. Tente outra opção!"
         ]
       },
       "flashcards": [
         {
           "front_tag": "Essência Cooperativista",
-          "front_question": "Qual é a relação entre Segurança da Informação e o propósito da Cresol?",
+          "front_question": "Qual é a relação entre Segurança da Informação e o propósito da CRESOL?",
           "back_title": "Confiança no Relacionamento",
           "back_answer": "Fornecemos soluções financeiras com excelência por meio do relacionamento; proteger os dados do cooperado preserva nossa maior riqueza: a confiança."
         },
         {
           "front_tag": "Abrangência",
-          "front_question": "Quem faz parte da Governança e Segurança no Sistema Cresol?",
+          "front_question": "Quem faz parte da Governança e Segurança no Sistema CRESOL?",
           "back_title": "Compromisso de Todos",
           "back_answer": "Confederação, Centrais, Centros Administrativos (Cooperativas) e Agências atuam unidos na proteção dos ativos digitais."
         },
@@ -104,7 +104,7 @@ window.COURSE_DATA = {
           "desc": "Quem executa a operação diária não deve ser a única instância que audita e aprova as regras de governança."
         }
       ],
-      "cresol_context": "Na Política de Governança de Software e no modelo centralizado de Gestão de Acessos da Cresol Confederação, as diretrizes e matrizes são definidas de forma conjunta entre Governança de TI, Negócio, Riscos, Segurança e Prevenção a Fraudes, enquanto a operacionalização ocorre de forma padronizada e auditável.",
+      "cresol_context": "Na Política de Governança de Software e no modelo centralizado de Gestão de Acessos da CRESOL Confederação, as diretrizes e matrizes são definidas de forma conjunta entre Governança de TI, Negócio, Riscos, Segurança e Prevenção a Fraudes, enquanto a operacionalização ocorre de forma padronizada e auditável.",
       "best_practices": [
         "Respeite os fluxos formais de aprovação definidos pelas políticas e normas internas.",
         "Diferencie claramente pedidos de suporte operacional de solicitações que exigem avaliação de risco ou mudança de regra.",
@@ -122,7 +122,7 @@ window.COURSE_DATA = {
         "feedbacks": [
           "Se a própria Operação criar e aprovar regras sozinha para reduzir a fila, elimina-se a avaliação de risco e a segregação de funções, permitindo acessos indevidos sem governança. Tente outra alternativa!",
           "A harmonia e segregação entre Governança (direcionar/monitorar), Gestão (planejar/organizar matrizes) e Operação (executar com rastreabilidade) impede conflitos de interesse e garante conformidade.",
-          "Eliminar políticas formais quebraria a padronização do Sistema Cresol, gerando critérios desiguais e riscos graves nas operações financeiras. Escolha outra opção!"
+          "Eliminar políticas formais quebraria a padronização do Sistema CRESOL, gerando critérios desiguais e riscos graves nas operações financeiras. Escolha outra opção!"
         ]
       },
       "flashcards": [
@@ -173,7 +173,7 @@ window.COURSE_DATA = {
           "desc": "Juntos, os três referenciais permitem saber o que deve ser feito (COBIT), como proteger (ISO 27001) e como operar com eficiência (ITIL)."
         }
       ],
-      "cresol_context": "As normas internas da Cresol — como a Norma de Controle de Acesso Lógico e a Política de Governança de Software — incorporam diretamente controles da ISO/IEC 27001 e práticas de COBIT e ITIL, utilizando service desk estruturado para requisições e gestão de mudanças.",
+      "cresol_context": "As normas internas da CRESOL — como a Norma de Controle de Acesso Lógico e a Política de Governança de Software — incorporam diretamente controles da ISO/IEC 27001 e práticas de COBIT e ITIL, utilizando service desk estruturado para requisições e gestão de mudanças.",
       "best_practices": [
         "Utilize sempre a ferramenta oficial de chamados (Service Desk) para solicitações e registro de incidentes.",
         "Compreenda que controles de aprovação e mudança protegem a estabilidade do Sistema Colmeia e demais plataformas.",
@@ -181,7 +181,7 @@ window.COURSE_DATA = {
       ],
       "scenario": {
         "situation": "Um colaborador precisa de uma alteração urgente em um sistema corporativo e sugere pedir diretamente por mensagem privada a um conhecido da TI, sem abrir chamado no Service Desk, alegando que 'registrar chamado é apenas burocracia'.",
-        "question": "Com base nas práticas de COBIT, ISO 27001 e ITIL adotadas pela Cresol, como você deve agir?",
+        "question": "Com base nas práticas de COBIT, ISO 27001 e ITIL adotadas pela CRESOL, como você deve agir?",
         "options": [
           "Orientar a abertura formal do chamado no Service Desk, explicando que o registro garante rastreabilidade, avaliação de impacto (ITIL), controle de segurança (ISO 27001) e governança (COBIT).",
           "Apoiar o pedido por mensagem privada, desde que a pessoa prometa abrir o chamado na semana seguinte.",
@@ -242,7 +242,7 @@ window.COURSE_DATA = {
           "desc": "Combinamos barreiras tecnológicas, processos bem desenhados e conscientização contínua."
         }
       ],
-      "cresol_context": "No Sistema Cresol, a proteção do core bancário (Colmeia) e do ecossistema cooperativo depende tanto da infraestrutura tecnológica quanto do cumprimento rigoroso dos fluxos de validação pelos gestores e colaboradores.",
+      "cresol_context": "No Sistema CRESOL, a proteção do core bancário (Colmeia) e do ecossistema cooperativo depende tanto da infraestrutura tecnológica quanto do cumprimento rigoroso dos fluxos de validação pelos gestores e colaboradores.",
       "best_practices": [
         "Nunca recorra a atalhos informais para contornar controles de segurança, mesmo em situações de urgência.",
         "Questione processos manuais recorrentes que possam gerar erro operacional e sugira melhorias à equipe responsável.",
@@ -311,7 +311,7 @@ window.COURSE_DATA = {
           "desc": "Confirmar de forma inequívoca a identidade de quem criou, acessou ou aprovou uma transação ou informação."
         }
       ],
-      "cresol_context": "Quando configuramos o MFA nas contas Google Cresol, protegemos a Confidencialidade e a Autenticidade; quando segregamos perfis no Sentinela/Colmeia, preservamos a Integridade das operações financeiras e a Disponibilidade dos serviços para as cooperativas.",
+      "cresol_context": "Quando configuramos o MFA nas contas Google CRESOL, protegemos a Confidencialidade e a Autenticidade; quando segregamos perfis no Sentinela/Colmeia, preservamos a Integridade das operações financeiras e a Disponibilidade dos serviços para as cooperativas.",
       "best_practices": [
         "Classifique e trate documentos internos com o cuidado exigido pelo seu nível de confidencialidade.",
         "Bloqueie sua estação de trabalho (Win + L) sempre que se ausentar da mesa.",
@@ -322,12 +322,12 @@ window.COURSE_DATA = {
         "question": "Considerando os pilares CIDA (Confidencialidade, Integridade, Disponibilidade e Autenticidade), qual é a conduta segura?",
         "options": [
           "Enviar o arquivo por aplicativo de mensagens pessoal ou link público sem restrição para facilitar a leitura.",
-          "Utilizar exclusivamente os canais corporativos homologados (como o Google Drive/E-mail Cresol), restringindo a permissão de acesso apenas aos destinatários autorizados para preservar a Confidencialidade e a Integridade.",
+          "Utilizar exclusivamente os canais corporativos homologados (como o Google Drive/E-mail CRESOL), restringindo a permissão de acesso apenas aos destinatários autorizados para preservar a Confidencialidade e a Integridade.",
           "Publicar a planilha em uma pasta aberta a todos os colaboradores da rede."
         ],
         "correct": 1,
         "feedbacks": [
-          "Aplicativos pessoais ou links públicos retiram da Cresol o controle sobre quem acessa os dados dos cooperados, violando diretamente a Confidencialidade e a LGPD. Tente outra opção!",
+          "Aplicativos pessoais ou links públicos retiram da CRESOL o controle sobre quem acessa os dados dos cooperados, violando diretamente a Confidencialidade e a LGPD. Tente outra opção!",
           "Restringir o compartilhamento às pessoas autorizadas nos canais oficiais protege a Confidencialidade (acesso restrito) e a Integridade (prevenção contra alterações indevidas).",
           "Deixar dados financeiros e pessoais de cooperados abertos para toda a rede fere o sigilo bancário e o princípio da Confidencialidade. Escolha outra alternativa!"
         ]
@@ -377,10 +377,10 @@ window.COURSE_DATA = {
         },
         {
           "title": "Protagonismo no Dia a Dia",
-          "desc": "Cada verificação cuidadosa de acesso e cada reporte preventivo fortalecem todo o Sistema Cresol."
+          "desc": "Cada verificação cuidadosa de acesso e cada reporte preventivo fortalecem todo o Sistema CRESOL."
         }
       ],
-      "cresol_context": "A essência da Cresol é humana, simples e parceira. Nossa cordialidade no relacionamento com cooperados e colegas deve caminhar sempre junto com a confirmação rigorosa de identidade e o respeito aos canais oficiais.",
+      "cresol_context": "A essência da CRESOL é humana, simples e parceira. Nossa cordialidade no relacionamento com cooperados e colegas deve caminhar sempre junto com a confirmação rigorosa de identidade e o respeito aos canais oficiais.",
       "best_practices": [
         "Desconfie de mensagens urgentes solicitando senhas, códigos MFA ou liberações fora do fluxo oficial.",
         "Em caso de dúvida sobre a autenticidade de um pedido, valide por outro canal oficial antes de agir.",
@@ -391,13 +391,13 @@ window.COURSE_DATA = {
         "question": "O que você faz nessa situação?",
         "options": [
           "Informa o código rapidamente para evitar ficar sem acesso durante o expediente.",
-          "Recusa-se imediatamente a informar o código MFA, encerra o contato suspeito e reporta a tentativa de engenharia social aos canais oficiais de Segurança da Cresol.",
+          "Recusa-se imediatamente a informar o código MFA, encerra o contato suspeito e reporta a tentativa de engenharia social aos canais oficiais de Segurança da CRESOL.",
           "Pede para a pessoa enviar um link por SMS e digita sua senha nele."
         ],
         "correct": 1,
         "feedbacks": [
           "Informar o código MFA entrega ao golpista a chave que faltava para invadir sua conta corporativa em seu nome. Nunca informe códigos MFA a ninguém! Tente outra opção.",
-          "Nenhuma equipe legítima de TI ou Segurança da Cresol solicita sua senha ou código MFA. A urgência artificial é a marca registrada da engenharia social.",
+          "Nenhuma equipe legítima de TI ou Segurança da CRESOL solicita sua senha ou código MFA. A urgência artificial é a marca registrada da engenharia social.",
           "Clicar em links enviados por SMS suspeito (Smishing) e digitar sua senha compromete imediatamente suas credenciais. Escolha a opção segura!"
         ]
       },
@@ -449,24 +449,24 @@ window.COURSE_DATA = {
           "desc": "Permite autenticar de forma padronizada e segura sem multiplicar senhas isoladas em dezenas de sistemas."
         }
       ],
-      "cresol_context": "No Sistema Cresol, utilizamos o ecossistema Google com Dupla Autenticação (MFA) obrigatória e plataformas de identidade como o Keycloak (organizado em Realms, Clients, Users, Roles e Groups) e o Sentinela/Colmeia para centralizar e padronizar a autenticação e a autorização.",
+      "cresol_context": "No Sistema CRESOL, utilizamos o ecossistema Google com Dupla Autenticação (MFA) obrigatória e plataformas de identidade como o Keycloak (organizado em Realms, Clients, Users, Roles e Groups) e o Sentinela/Colmeia para centralizar e padronizar a autenticação e a autorização.",
       "best_practices": [
-        "Mantenha o MFA ativo e atualizado em sua conta Google Cresol e em todos os sistemas homologados.",
-        "Crie senhas fortes com no mínimo 12 caracteres (letras maiúsculas, minúsculas, números e símbolos), evitando nomes próprios ou termos óbvios como 'Cresol'.",
+        "Mantenha o MFA ativo e atualizado em sua conta Google CRESOL e em todos os sistemas homologados.",
+        "Crie senhas fortes com no mínimo 12 caracteres (letras maiúsculas, minúsculas, números e símbolos), evitando nomes próprios ou termos óbvios como 'CRESOL'.",
         "Compreenda que estar autenticado no SSO não significa ter autorização para acessar qualquer módulo: o acesso depende do perfil do seu cargo."
       ],
       "scenario": {
-        "situation": "Ao configurar sua senha e o MFA na conta Google Cresol, um colega comenta que prefere usar `Cresol@2026` como senha padrão em tudo porque é fácil de lembrar.",
-        "question": "De acordo com as orientações de Autenticação e a Norma de Senhas do Sistema Cresol, qual é a recomendação correta?",
+        "situation": "Ao configurar sua senha e o MFA na conta Google CRESOL, um colega comenta que prefere usar `CRESOL@2026` como senha padrão em tudo porque é fácil de lembrar.",
+        "question": "De acordo com as orientações de Autenticação e a Norma de Senhas do Sistema CRESOL, qual é a recomendação correta?",
         "options": [
-          "Usar `Cresol@2026` é seguro porque contém letra maiúscula, símbolo e número.",
-          "Evitar palavras óbvias como 'Cresol', nomes pessoais ou datas; criar uma senha longa (mínimo de 12 caracteres) combinada com frases-chave e manter o MFA sempre ativo.",
+          "Usar `CRESOL@2026` é seguro porque contém letra maiúscula, símbolo e número.",
+          "Evitar palavras óbvias como 'CRESOL', nomes pessoais ou datas; criar uma senha longa (mínimo de 12 caracteres) combinada com frases-chave e manter o MFA sempre ativo.",
           "Anotar a senha em um adesivo colado no monitor para não esquecer."
         ],
         "correct": 1,
         "feedbacks": [
-          "Padrões previsíveis com o nome da instituição + ano (`Cresol@2026`) têm apenas 11 caracteres e são os primeiros testados em ataques automatizados, sendo proibidos pela Norma de Senhas. Tente novamente!",
-          "A Norma de Senhas da Cresol exige no mínimo 12 caracteres e proíbe termos óbvios como 'Cresol' ou sequências previsíveis, somando a proteção do MFA e SSO (Keycloak/Google).",
+          "Padrões previsíveis com o nome da instituição + ano (`CRESOL@2026`) têm apenas 11 caracteres e são os primeiros testados em ataques automatizados, sendo proibidos pela Norma de Senhas. Tente novamente!",
+          "A Norma de Senhas da CRESOL exige no mínimo 12 caracteres e proíbe termos óbvios como 'CRESOL' ou sequências previsíveis, somando a proteção do MFA e SSO (Keycloak/Google).",
           "Deixar senhas visíveis em adesivos no monitor expõe o acesso a qualquer pessoa que circule pelo ambiente físico. Tente outra alternativa!"
         ]
       },
@@ -479,15 +479,15 @@ window.COURSE_DATA = {
         },
         {
           "front_tag": "SSO e Keycloak",
-          "front_question": "Qual o papel do Keycloak e do SSO no Sistema Cresol?",
+          "front_question": "Qual o papel do Keycloak e do SSO no Sistema CRESOL?",
           "back_title": "Identidade Centralizada",
           "back_answer": "Permite autenticação padronizada com token seguro (OAuth 2.0 / SAML / OIDC), integrando aplicações corporativas."
         },
         {
-          "front_tag": "Norma de Senhas Cresol",
-          "front_question": "Quais são os requisitos essenciais de uma senha forte na Cresol?",
+          "front_tag": "Norma de Senhas CRESOL",
+          "front_question": "Quais são os requisitos essenciais de uma senha forte na CRESOL?",
           "back_title": "12+ Caracteres e Sem Óbvios",
-          "back_answer": "Mínimo de 12 caracteres misturando letras, números e símbolos, sem usar 'Cresol', datas ou nomes pessoais."
+          "back_answer": "Mínimo de 12 caracteres misturando letras, números e símbolos, sem usar 'CRESOL', datas ou nomes pessoais."
         }
       ]
     },
@@ -518,7 +518,7 @@ window.COURSE_DATA = {
           "desc": "Acessos adicionais fora da matriz padrão exigem justificativa formal, análise de risco e aprovação de alçada competente."
         }
       ],
-      "cresol_context": "Na Cresol, as matrizes de acesso por cargo, unidade e posto de atendimento são construídas em conjunto entre Gestão de Acessos, Negócio, Riscos, Segurança e Prevenção a Fraudes, garantindo segregação de funções no Colmeia e nos sistemas corporativos.",
+      "cresol_context": "Na CRESOL, as matrizes de acesso por cargo, unidade e posto de atendimento são construídas em conjunto entre Gestão de Acessos, Negócio, Riscos, Segurança e Prevenção a Fraudes, garantindo segregação de funções no Colmeia e nos sistemas corporativos.",
       "best_practices": [
         "Ao solicitar acesso para um colaborador, peça apenas os perfis necessários às atividades atuais dele, evitando pedir 'acesso igual ao do colega mais antigo'.",
         "Se identificar que possui permissões de sistemas ou módulos que não utiliza mais, solicite a remoção.",
@@ -554,7 +554,7 @@ window.COURSE_DATA = {
         },
         {
           "front_tag": "Matriz de Acesso",
-          "front_question": "Como são definidos os perfis padrão no Sistema Cresol?",
+          "front_question": "Como são definidos os perfis padrão no Sistema CRESOL?",
           "back_title": "Construção Conjunta",
           "back_answer": "Definidos entre Gestão de Acessos, Negócio, Riscos, Segurança, Prevenção a Fraudes e Centrais."
         }
@@ -587,7 +587,7 @@ window.COURSE_DATA = {
           "desc": "Trilha de auditoria detalhada sobre cada comando ou alteração executada com privilégio elevado."
         }
       ],
-      "cresol_context": "No modelo de governança do Sistema Cresol, acessos críticos e administrativos passam por validações rigorosas, monitoramento contínuo de logs e separação estrita em relação às contas de uso cotidiano.",
+      "cresol_context": "No modelo de governança do Sistema CRESOL, acessos críticos e administrativos passam por validações rigorosas, monitoramento contínuo de logs e separação estrita em relação às contas de uso cotidiano.",
       "best_practices": [
         "Utilize contas administrativas exclusivamente no momento de realizar manutenções ou configurações autorizadas.",
         "Jamais utilize a mesma senha da sua conta padrão em uma conta privilegiada.",
@@ -656,10 +656,10 @@ window.COURSE_DATA = {
           "desc": "Projetar controles e monitoramento contínuo para detectar e conter desvios rapidamente."
         }
       ],
-      "cresol_context": "A adoção de SSO centralizado (Keycloak/Google), MFA obrigatório e validação contextual por perfil e unidade no Sistema Cresol reflete diretamente os princípios de Zero Trust na prática.",
+      "cresol_context": "A adoção de SSO centralizado (Keycloak/Google), MFA obrigatório e validação contextual por perfil e unidade no Sistema CRESOL reflete diretamente os princípios de Zero Trust na prática.",
       "best_practices": [
         "Encare as solicitações de confirmação de MFA ou reautenticação como proteções essenciais à sua identidade.",
-        "Acesse sistemas da Cresol apenas a partir de equipamentos e ambientes homologados pela instituição.",
+        "Acesse sistemas da CRESOL apenas a partir de equipamentos e ambientes homologados pela instituição.",
         "Mantenha sistemas operacionais e navegadores sempre atualizados."
       ],
       "scenario": {
@@ -742,7 +742,7 @@ window.COURSE_DATA = {
         "correct": 1,
         "feedbacks": [
           "Mesmo que a intenção seja ajudar, usar a senha de outra pessoa invalida a auditoria e fere o Não-Repúdio, além de a conta do titular ser bloqueada nas férias pelo Senior/Sentinela. Tente novamente!",
-          "O compartilhamento de credenciais é proibido nas normas da Cresol, pois destrói a rastreabilidade. Além disso, o registro de férias no Senior bloqueia automaticamente o acesso do titular no Sentinela/Colmeia.",
+          "O compartilhamento de credenciais é proibido nas normas da CRESOL, pois destrói a rastreabilidade. Além disso, o registro de férias no Senior bloqueia automaticamente o acesso do titular no Sentinela/Colmeia.",
           "Contas genéricas compartilhadas impedem saber qual colaborador realizou cada transação e não são permitidas para operação humana. Escolha outra alternativa!"
         ]
       },
@@ -763,7 +763,7 @@ window.COURSE_DATA = {
           "front_tag": "Credencial Compartilhada",
           "front_question": "Por que é proibido dividir usuário e senha com colegas?",
           "back_title": "Quebra da Auditoria",
-          "back_answer": "Impede identificar quem realizou cada operação e viola a Norma de Controle de Acesso Lógico da Cresol."
+          "back_answer": "Impede identificar quem realizou cada operação e viola a Norma de Controle de Acesso Lógico da CRESOL."
         }
       ]
     },
@@ -791,27 +791,27 @@ window.COURSE_DATA = {
         },
         {
           "title": "Conformidade com a Política de Software",
-          "desc": "Todo software utilizado no Sistema Cresol deve passar por avaliação prévia de segurança, licenciamento e arquitetura."
+          "desc": "Todo software utilizado no Sistema CRESOL deve passar por avaliação prévia de segurança, licenciamento e arquitetura."
         }
       ],
-      "cresol_context": "A Política de Governança de Software do Sistema Cresol veda a instalação ou uso de softwares e serviços em nuvem não homologados, protegendo nossas cooperativas contra vazamentos de dados, malwares e passivos legais.",
+      "cresol_context": "A Política de Governança de Software do Sistema CRESOL veda a instalação ou uso de softwares e serviços em nuvem não homologados, protegendo nossas cooperativas contra vazamentos de dados, malwares e passivos legais.",
       "best_practices": [
-        "Utilize apenas ferramentas, extensões e plataformas oficialmente homologadas pelo Sistema Cresol.",
+        "Utilize apenas ferramentas, extensões e plataformas oficialmente homologadas pelo Sistema CRESOL.",
         "Nunca insira dados corporativos ou de cooperados em ferramentas externas de IA, conversores de PDF online ou nuvens pessoais.",
         "Lembre-se do Não-Repúdio: toda ação realizada na sua sessão autenticada é de sua inteira responsabilidade."
       ],
       "scenario": {
-        "situation": "Para resumir um relatório extenso com dados estratégicos de cooperados e operações de crédito, um colaborador pensa em copiar e colar as informações em um site gratuito de Inteligência Artificial não homologado pela Cresol.",
+        "situation": "Para resumir um relatório extenso com dados estratégicos de cooperados e operações de crédito, um colaborador pensa em copiar e colar as informações em um site gratuito de Inteligência Artificial não homologado pela CRESOL.",
         "question": "Por que essa ação configura 'Shadow IT' e qual é a alternativa correta?",
         "options": [
           "Não há risco algum, pois sites gratuitos na internet não armazenam os textos digitados.",
-          "Configura Shadow IT e risco grave de vazamento de dados sigilosos; o colaborador nunca deve inserir dados corporativos ou de cooperados em ferramentas não homologadas pela Governança de TI e Segurança da Cresol.",
+          "Configura Shadow IT e risco grave de vazamento de dados sigilosos; o colaborador nunca deve inserir dados corporativos ou de cooperados em ferramentas não homologadas pela Governança de TI e Segurança da CRESOL.",
           "Pode ser feito desde que o colaborador apague o histórico do navegador depois."
         ],
         "correct": 1,
         "feedbacks": [
           "Muitas plataformas gratuitas na internet armazenam os textos enviados e os utilizam para treinar modelos públicos, expondo dados sigilosos de cooperados. Tente outra opção!",
-          "A Política de Governança de Software do Sistema Cresol proíbe o uso de ferramentas não homologadas (Shadow IT), especialmente com dados internos ou de cooperados.",
+          "A Política de Governança de Software do Sistema CRESOL proíbe o uso de ferramentas não homologadas (Shadow IT), especialmente com dados internos ou de cooperados.",
           "Apagar o histórico do navegador no computador não remove os dados que já foram enviados para os servidores externos do site não homologado. Tente novamente!"
         ]
       },
@@ -863,7 +863,7 @@ window.COURSE_DATA = {
           "desc": "As revisões documentam que a cooperativa mantém controle ativo sobre seus sistemas críticos."
         }
       ],
-      "cresol_context": "No modelo centralizado da Cresol Confederação, a equipe de Gestão de Acessos conduz e apoia as revisões periódicas e validações de acessos críticos com o suporte do Sentinela, cabendo aos gestores confirmar a necessidade real de cada permissão.",
+      "cresol_context": "No modelo centralizado da CRESOL Confederação, a equipe de Gestão de Acessos conduz e apoia as revisões periódicas e validações de acessos críticos com o suporte do Sentinela, cabendo aos gestores confirmar a necessidade real de cada permissão.",
       "best_practices": [
         "Participe ativamente dos ciclos de revisão periódica de acessos da sua equipe, analisando item por item.",
         "Solicite acessos temporários já informando a data prevista de término quando se tratar de atuação em projeto ou substituição.",
@@ -932,7 +932,7 @@ window.COURSE_DATA = {
           "desc": "Se houver necessidade de apoio temporário ao setor anterior, essa exceção deve ter prazo curto e data certa para expirar."
         }
       ],
-      "cresol_context": "Na integração entre Senior (RH), Sentinela e Colmeia no Sistema Cresol, os eventos de movimentação funcional atualizam o vínculo do colaborador para que seus grupos e perfis reflitam exclusivamente sua nova atribuição e unidade.",
+      "cresol_context": "Na integração entre Senior (RH), Sentinela e Colmeia no Sistema CRESOL, os eventos de movimentação funcional atualizam o vínculo do colaborador para que seus grupos e perfis reflitam exclusivamente sua nova atribuição e unidade.",
       "best_practices": [
         "Ao promover ou transferir um colaborador de área/PA, verifique se os acessos da função anterior foram encerrados.",
         "Alerta de Segregação de Funções: nunca mantenha acessos operacionais antigos ao assumir funções de controle, análise ou gestão.",
@@ -1001,7 +1001,7 @@ window.COURSE_DATA = {
           "desc": "Durante períodos legais de férias ou licenças, os acessos devem permanecer temporariamente bloqueados."
         }
       ],
-      "cresol_context": "No Sistema Cresol, assim que o RH registra férias, afastamento ou desligamento no sistema Senior, o evento é enviado instantaneamente ao Sentinela, gerando o bloqueio temporário ou a revogação imediata do acesso ao Colmeia, além do disparo dos fluxos para os demais sistemas.",
+      "cresol_context": "No Sistema CRESOL, assim que o RH registra férias, afastamento ou desligamento no sistema Senior, o evento é enviado instantaneamente ao Sentinela, gerando o bloqueio temporário ou a revogação imediata do acesso ao Colmeia, além do disparo dos fluxos para os demais sistemas.",
       "best_practices": [
         "Registre e comunique desligamentos, férias e afastamentos tempestivamente no sistema de origem (Senior).",
         "Não se esqueça de revogar acessos de prestadores de serviço assim que a atividade contratada for concluída.",
@@ -1070,7 +1070,7 @@ window.COURSE_DATA = {
           "desc": "A equipe de Governança e Gestão de Acessos monitora logs de integração para tratar rapidamente qualquer divergência."
         }
       ],
-      "cresol_context": "A arquitetura integrada Senior → Sentinela → Colmeia na Cresol Confederação exemplifica a automação da governança na prática: centraliza o cadastro, aplica bloqueios automáticos em férias/desligamentos e mantém trilha completa de auditoria.",
+      "cresol_context": "A arquitetura integrada Senior → Sentinela → Colmeia na CRESOL Confederação exemplifica a automação da governança na prática: centraliza o cadastro, aplica bloqueios automáticos em férias/desligamentos e mantém trilha completa de auditoria.",
       "best_practices": [
         "Garanta a qualidade e a pontualidade dos dados cadastrais lançados nos sistemas de origem.",
         "Para sistemas que ainda operam via fluxo específico de chamado, siga rigorosamente o formulário e a aprovação do gestor.",
@@ -1078,7 +1078,7 @@ window.COURSE_DATA = {
       ],
       "scenario": {
         "situation": "Um colaborador terá seu período de férias iniciado na próxima segunda-feira, mas o lançamento oficial no sistema Senior (RH) ainda está pendente de regularização cadastral.",
-        "question": "Por que o registro tempestivo dos eventos funcionais no Senior é fundamental para a automação da governança na Cresol?",
+        "question": "Por que o registro tempestivo dos eventos funcionais no Senior é fundamental para a automação da governança na CRESOL?",
         "options": [
           "Porque o Senior envia instantaneamente os eventos ao Sentinela, que aplica automaticamente o bloqueio temporário nas férias/afastamentos ou a revogação imediata no desligamento dentro do Colmeia.",
           "Apenas para fins de cálculo de folha de pagamento, sem relação com os sistemas de TI.",
@@ -1087,20 +1087,20 @@ window.COURSE_DATA = {
         "correct": 0,
         "feedbacks": [
           "A automação Senior → Sentinela → Colmeia depende da qualidade e pontualidade do registro no sistema de origem para aplicar bloqueios e revogações em tempo real.",
-          "No Sistema Cresol, o Senior vai muito além da folha: ele é a fonte oficial que dispara automaticamente os bloqueios e inativações de segurança no Sentinela/Colmeia. Tente outra opção!",
+          "No Sistema CRESOL, o Senior vai muito além da folha: ele é a fonte oficial que dispara automaticamente os bloqueios e inativações de segurança no Sentinela/Colmeia. Tente outra opção!",
           "Sem o lançamento do evento funcional no sistema de origem (Senior), a automação não tem como saber que o colaborador iniciou férias. Escolha a alternativa correta!"
         ]
       },
       "flashcards": [
         {
-          "front_tag": "Fluxo Integrado Cresol",
+          "front_tag": "Fluxo Integrado CRESOL",
           "front_question": "Como funciona a automação Senior → Sentinela → Colmeia?",
           "back_title": "Sincronização Instantânea",
           "back_answer": "Eventos lançados pelo RH no Senior disparam automaticamente ajustes, bloqueios ou revogações no Sentinela e Colmeia."
         },
         {
           "front_tag": "Papel do Sentinela",
-          "front_question": "Qual é a função do Sentinela no ecossistema Cresol?",
+          "front_question": "Qual é a função do Sentinela no ecossistema CRESOL?",
           "back_title": "Administração Central do Colmeia",
           "back_answer": "Centraliza o cadastro, situação funcional, grupos, perfis de acesso e trilhas de auditoria do core bancário Colmeia."
         },
@@ -1139,7 +1139,7 @@ window.COURSE_DATA = {
           "desc": "Após a resolução da emergência, realiza-se a revisão formal das ações executadas, a rotação da senha e o fechamento do registro."
         }
       ],
-      "cresol_context": "No Sistema Cresol, situações críticas nunca justificam 'empréstimo de senha'. Exceções e acessos de emergência seguem rito formal controlado, com justificativa, aprovação e revisão completa pelas equipes de Gestão de Acessos e Segurança.",
+      "cresol_context": "No Sistema CRESOL, situações críticas nunca justificam 'empréstimo de senha'. Exceções e acessos de emergência seguem rito formal controlado, com justificativa, aprovação e revisão completa pelas equipes de Gestão de Acessos e Segurança.",
       "best_practices": [
         "Nunca confunda uma demanda cotidiana atrasada com uma emergência real de Break-Glass.",
         "Se precisar acionar um procedimento emergencial, documente cada passo executado e o horário exato da intervenção.",
@@ -1189,7 +1189,7 @@ window.COURSE_DATA = {
       "duration": "06:20",
       "length_sec": 380,
       "video_player": "https://player-vz-a7e961e9-764.tv.pandavideo.com.br/embed/?v=d14c5e27-08d3-4ba4-9d14-e3e8db616ffe",
-      "summary": "Durante muito tempo, o mercado tratou o usuário apenas como 'o elo mais fraco'. Na visão moderna de governança — e na essência cooperativista da Cresol —, colaboradores bem orientados, apoiados por processos claros, tornam-se a nossa primeira e mais inteligente linha de defesa (Human Firewall).",
+      "summary": "Durante muito tempo, o mercado tratou o usuário apenas como 'o elo mais fraco'. Na visão moderna de governança — e na essência cooperativista da CRESOL —, colaboradores bem orientados, apoiados por processos claros, tornam-se a nossa primeira e mais inteligente linha de defesa (Human Firewall).",
       "key_points": [
         {
           "title": "De Alvo Passivo a Agente de Proteção",
@@ -1208,7 +1208,7 @@ window.COURSE_DATA = {
           "desc": "Controles de segurança claros e acessíveis reduzem a tentação de buscar atalhos arriscados."
         }
       ],
-      "cresol_context": "A personalidade da marca Cresol é humana, simples, parceira, conselheira e didática. Levamos exatamente esses valores para a Segurança da Informação: orientar com proximidade para que todos trabalhem com confiança.",
+      "cresol_context": "A personalidade da marca CRESOL é humana, simples, parceira, conselheira e didática. Levamos exatamente esses valores para a Segurança da Informação: orientar com proximidade para que todos trabalhem com confiança.",
       "best_practices": [
         "Pratique a verificação ativa: confira domínios de e-mail, links e solicitações incomuns antes de clicar.",
         "Cuide das informações exibidas na sua tela e em mesas de atendimento presencial nas agências (Mesa Limpa / Tela Limpa).",
@@ -1246,7 +1246,7 @@ window.COURSE_DATA = {
           "front_tag": "Efeito Multiplicador",
           "front_question": "Como fortalecer a segurança na rotina da sua equipe?",
           "back_title": "Orientação Parceira",
-          "back_answer": "Apoiar colegas com dicas práticas e linguagem acessível, seguindo o jeito cooperativo da Cresol."
+          "back_answer": "Apoiar colegas com dicas práticas e linguagem acessível, seguindo o jeito cooperativo da CRESOL."
         }
       ]
     },
@@ -1274,10 +1274,10 @@ window.COURSE_DATA = {
         },
         {
           "title": "Melhoria Contínua dos Controles",
-          "desc": "Cada quase-incidente reportado serve de insumo para aprimorar as defesas do Sistema Cresol."
+          "desc": "Cada quase-incidente reportado serve de insumo para aprimorar as defesas do Sistema CRESOL."
         }
       ],
-      "cresol_context": "Nossos pilares de comunicação e relacionamento baseiam-se na honestidade, transparência e parceria ('estamos sempre juntos'). Reportar rapidamente um erro involuntário é um ato de responsabilidade e lealdade ao Sistema Cresol.",
+      "cresol_context": "Nossos pilares de comunicação e relacionamento baseiam-se na honestidade, transparência e parceria ('estamos sempre juntos'). Reportar rapidamente um erro involuntário é um ato de responsabilidade e lealdade ao Sistema CRESOL.",
       "best_practices": [
         "Se clicar acidentalmente em um link suspeito ou notar comportamento estranho no equipamento, avise imediatamente — nunca tente esconder.",
         "Líderes e gestores devem acolher relatos preventivos de sua equipe, reforçando a confiança e o acionamento rápido do suporte.",
@@ -1285,7 +1285,7 @@ window.COURSE_DATA = {
       ],
       "scenario": {
         "situation": "No meio de uma rotina intensa, um colega clica acidentalmente em um link de e-mail que parecia ser uma cobrança legítima, mas logo percebe que a página era suspeita. Ele fica com receio de avisar a TI por medo de levar uma bronca.",
-        "question": "Com base na Cultura de Não-Culpabilidade (Just Culture) da Cresol, qual é o melhor conselho para esse colega?",
+        "question": "Com base na Cultura de Não-Culpabilidade (Just Culture) da CRESOL, qual é o melhor conselho para esse colega?",
         "options": [
           "Aconselhar que ele fique em silêncio e torça para nada acontecer.",
           "Incentivá-lo a reportar imediatamente à Segurança/TI: na Cultura Justa, o relato rápido de um erro involuntário é acolhido com transparência para permitir a contenção imediata do risco.",
@@ -1346,7 +1346,7 @@ window.COURSE_DATA = {
           "desc": "Não apague mensagens suspeitas nem tente investigar por conta própria; encaminhe os detalhes à equipe técnica."
         }
       ],
-      "cresol_context": "No Sistema Cresol, a equipe de Gestão de Acessos e Segurança da Informação atua de forma centralizada no monitoramento de alertas, bloqueio preventivo de credenciais e tratamento de exceções em conjunto com as Centrais e Cooperativas.",
+      "cresol_context": "No Sistema CRESOL, a equipe de Gestão de Acessos e Segurança da Informação atua de forma centralizada no monitoramento de alertas, bloqueio preventivo de credenciais e tratamento de exceções em conjunto com as Centrais e Cooperativas.",
       "best_practices": [
         "Reporte imediatamente qualquer perda ou roubo de notebook ou celular com acesso corporativo para bloqueio remoto das sessões.",
         "Caso receba um alerta de tentativa de login ou aprovação de MFA que você não iniciou, negue imediatamente e comunique a Segurança.",
@@ -1396,7 +1396,7 @@ window.COURSE_DATA = {
       "duration": "08:08",
       "length_sec": 488,
       "video_player": "https://player-vz-a7e961e9-764.tv.pandavideo.com.br/embed/?v=7c138c30-792b-4824-9d6a-bcf1535df142",
-      "summary": "Concluindo nossa trilha, compreendemos que Governança de TI, Segurança e Gestão de Acessos não são um projeto com data para acabar, mas um ciclo contínuo (PDCA: Planejar, Executar, Verificar e Agir). À medida que o Sistema Cresol cresce, inova e lança novas soluções financeiras, nossa governança evolui junto.",
+      "summary": "Concluindo nossa trilha, compreendemos que Governança de TI, Segurança e Gestão de Acessos não são um projeto com data para acabar, mas um ciclo contínuo (PDCA: Planejar, Executar, Verificar e Agir). À medida que o Sistema CRESOL cresce, inova e lança novas soluções financeiras, nossa governança evolui junto.",
       "key_points": [
         {
           "title": "Ciclo Vivo de Melhoria Contínua",
@@ -1411,27 +1411,27 @@ window.COURSE_DATA = {
           "desc": "Governança madura caminha lado a lado com a estratégia de negócios, impulsionando a inovação com segurança."
         },
         {
-          "title": "Compromisso Permanente Cresol",
-          "desc": "Juntos, preservamos a solidez do Sistema Cresol e a confiança de cada cooperado em todas as regiões do Brasil."
+          "title": "Compromisso Permanente CRESOL",
+          "desc": "Juntos, preservamos a solidez do Sistema CRESOL e a confiança de cada cooperado em todas as regiões do Brasil."
         }
       ],
-      "cresol_context": "Com a centralização e evolução contínua da Gestão de Acessos na Cresol Confederação em parceria com as Centrais, Cooperativas e Agências, construímos um ambiente cada vez mais integrado, transparente e seguro para o futuro do nosso Sistema.",
+      "cresol_context": "Com a centralização e evolução contínua da Gestão de Acessos na CRESOL Confederação em parceria com as Centrais, Cooperativas e Agências, construímos um ambiente cada vez mais integrado, transparente e seguro para o futuro do nosso Sistema.",
       "best_practices": [
-        "Mantenha-se atualizado sobre as revisões das Políticas e Normas de Segurança da Informação do Sistema Cresol.",
+        "Mantenha-se atualizado sobre as revisões das Políticas e Normas de Segurança da Informação do Sistema CRESOL.",
         "Aplique diariamente os princípios de menor privilégio, proteção de credenciais, recertificação e reporte ágil.",
-        "Lembre-se: na Cresol, através da união e do cuidado compartilhado, crescemos todos juntos com segurança."
+        "Lembre-se: na CRESOL, através da união e do cuidado compartilhado, crescemos todos juntos com segurança."
       ],
       "scenario": {
         "situation": "Após concluir todos os treinamentos e revisar as matrizes de acesso do ano, um gestor comenta: 'Pronto, agora nossa Governança de Acessos está 100% terminada e não precisamos mais mexer nisso nos próximos anos.'",
         "question": "Por que a Governança deve ser compreendida como um Ciclo Contínuo?",
         "options": [
-          "Porque o Sistema Cresol evolui constantemente — com novas soluções, integrações, movimentações de pessoas e novas ameaças — exigindo monitoramento, revisão e melhoria contínua (PDCA).",
+          "Porque o Sistema CRESOL evolui constantemente — com novas soluções, integrações, movimentações de pessoas e novas ameaças — exigindo monitoramento, revisão e melhoria contínua (PDCA).",
           "Porque as normas perdem a validade toda sexta-feira.",
           "Na verdade o gestor está certo: governança é um projeto único que nunca muda."
         ],
         "correct": 0,
         "feedbacks": [
-          "A governança é um organismo vivo que acompanha o crescimento sustentável do Sistema Cresol, protegendo nossos cooperados hoje e no futuro.",
+          "A governança é um organismo vivo que acompanha o crescimento sustentável do Sistema CRESOL, protegendo nossos cooperados hoje e no futuro.",
           "As políticas e normas possuem vigência planejada, mas os controles, revisões e monitoramentos de acessos ocorrem de forma contínua conforme o negócio evolui. Tente outra opção!",
           "Tratar a governança como algo estático faz com que as matrizes fiquem rapidamente defasadas diante de novas contratações, sistemas e riscos. Escolha a primeira alternativa!"
         ]
@@ -1445,7 +1445,7 @@ window.COURSE_DATA = {
         },
         {
           "front_tag": "Governança Compartilhada",
-          "front_question": "Quem participa da evolução das regras de acesso na Cresol?",
+          "front_question": "Quem participa da evolução das regras de acesso na CRESOL?",
           "back_title": "União Multidisciplinar",
           "back_answer": "Governança de TI, Gestão de Acessos, Negócio, Riscos, Segurança, Prevenção a Fraudes, Centrais e Gestores."
         },
@@ -1453,7 +1453,7 @@ window.COURSE_DATA = {
           "front_tag": "Compromisso Final",
           "front_question": "Qual é a síntese da nossa trilha de Governança e Segurança?",
           "back_title": "Juntos Crescemos com Segurança",
-          "back_answer": "Cuidar das identidades, respeitar os processos e manter uma cultura transparente protege todo o Sistema Cresol."
+          "back_answer": "Cuidar das identidades, respeitar os processos e manter uma cultura transparente protege todo o Sistema CRESOL."
         }
       ]
     }
@@ -1472,11 +1472,11 @@ window.COURSE_DATA = {
           "duration": "06:05",
           "length_sec": 365,
           "video_player": "https://player-vz-a7e961e9-764.tv.pandavideo.com.br/embed/?v=94ec9516-273a-47ee-b9dc-e27daf850a39",
-          "summary": "A aula inaugural apresenta o propósito da trilha de Governança de TI, Segurança e Gestão de Acessos no Sistema Cresol. No cooperativismo financeiro, a confiança é o nosso maior patrimônio: fornecemos soluções financeiras com excelência por meio do relacionamento, e proteger cada transação e informação dos cooperados é parte essencial dessa missão.",
+          "summary": "A aula inaugural apresenta o propósito da trilha de Governança de TI, Segurança e Gestão de Acessos no Sistema CRESOL. No cooperativismo financeiro, a confiança é o nosso maior patrimônio: fornecemos soluções financeiras com excelência por meio do relacionamento, e proteger cada transação e informação dos cooperados é parte essencial dessa missão.",
           "key_points": [
             {
               "title": "Confiança Cooperativista",
-              "desc": "A segurança da informação sustenta a relação de parceria e transparência entre o Sistema Cresol e cada cooperado."
+              "desc": "A segurança da informação sustenta a relação de parceria e transparência entre o Sistema CRESOL e cada cooperado."
             },
             {
               "title": "Alinhamento Estratégico",
@@ -1491,37 +1491,37 @@ window.COURSE_DATA = {
               "desc": "Desde os Centros Administrativos e agências até a Confederação e Centrais, todos somos guardiões dos ativos digitais."
             }
           ],
-          "cresol_context": "No Sistema Cresol, a evolução contínua e a unificação de processos entre Confederação, Centrais, Cooperativas e Agências exigem padrões sólidos de governança e conformidade regulatória (Banco Central do Brasil e LGPD), garantindo que crescemos todos juntos com segurança.",
+          "cresol_context": "No Sistema CRESOL, a evolução contínua e a unificação de processos entre Confederação, Centrais, Cooperativas e Agências exigem padrões sólidos de governança e conformidade regulatória (Banco Central do Brasil e LGPD), garantindo que crescemos todos juntos com segurança.",
           "best_practices": [
             "Assista às aulas relacionando cada conceito às rotinas da sua área ou unidade.",
             "Utilize o bloco de anotações deste módulo para registrar pontos de melhoria no seu dia a dia.",
-            "Consulte sempre a Política de Segurança da Informação e as normas internas vigentes do Sistema Cresol."
+            "Consulte sempre a Política de Segurança da Informação e as normas internas vigentes do Sistema CRESOL."
           ],
           "scenario": {
             "situation": "Você está recebendo um novo colega na sua unidade e ele comenta: 'Segurança da Informação e Governança são assuntos exclusivos do pessoal técnico de TI da Confederação; nós do atendimento e negócios só precisamos focar nas metas comerciais.'",
-            "question": "Diante dessa visão, qual é a melhor orientação segundo a cultura do Sistema Cresol?",
+            "question": "Diante dessa visão, qual é a melhor orientação segundo a cultura do Sistema CRESOL?",
             "options": [
               "Concordar com o colega, pois os filtros automáticos da TI já bloqueiam qualquer risco sem depender das pessoas.",
-              "Explicar que na Cresol fornecemos soluções financeiras por meio do relacionamento e da confiança, e por isso proteger os dados e acessos dos cooperados é responsabilidade compartilhada por todas as áreas.",
+              "Explicar que na CRESOL fornecemos soluções financeiras por meio do relacionamento e da confiança, e por isso proteger os dados e acessos dos cooperados é responsabilidade compartilhada por todas as áreas.",
               "Orientar que ele só precisa se preocupar com segurança em época de auditoria externa."
             ],
             "correct": 1,
             "feedbacks": [
               "Essa visão é arriscada: nenhuma ferramenta técnica consegue proteger a cooperativa se as pessoas compartilharem senhas ou aprovarem acessos sem critério. Tente outra alternativa!",
-              "Na Cresol, a segurança sustenta a confiança do cooperado. Tecnologia e negócios caminham juntos, e cada colaborador — das agências à Confederação — é guardião das informações.",
+              "Na CRESOL, a segurança sustenta a confiança do cooperado. Tecnologia e negócios caminham juntos, e cada colaborador — das agências à Confederação — é guardião das informações.",
               "Cuidar da segurança apenas durante auditorias deixa a cooperativa vulnerável em todos os outros dias do ano. A proteção precisa ser um hábito diário. Tente outra opção!"
             ]
           },
           "flashcards": [
             {
               "front_tag": "Essência Cooperativista",
-              "front_question": "Qual é a relação entre Segurança da Informação e o propósito da Cresol?",
+              "front_question": "Qual é a relação entre Segurança da Informação e o propósito da CRESOL?",
               "back_title": "Confiança no Relacionamento",
               "back_answer": "Fornecemos soluções financeiras com excelência por meio do relacionamento; proteger os dados do cooperado preserva nossa maior riqueza: a confiança."
             },
             {
               "front_tag": "Abrangência",
-              "front_question": "Quem faz parte da Governança e Segurança no Sistema Cresol?",
+              "front_question": "Quem faz parte da Governança e Segurança no Sistema CRESOL?",
               "back_title": "Compromisso de Todos",
               "back_answer": "Confederação, Centrais, Centros Administrativos (Cooperativas) e Agências atuam unidos na proteção dos ativos digitais."
             },
@@ -1560,7 +1560,7 @@ window.COURSE_DATA = {
               "desc": "Quem executa a operação diária não deve ser a única instância que audita e aprova as regras de governança."
             }
           ],
-          "cresol_context": "Na Política de Governança de Software e no modelo centralizado de Gestão de Acessos da Cresol Confederação, as diretrizes e matrizes são definidas de forma conjunta entre Governança de TI, Negócio, Riscos, Segurança e Prevenção a Fraudes, enquanto a operacionalização ocorre de forma padronizada e auditável.",
+          "cresol_context": "Na Política de Governança de Software e no modelo centralizado de Gestão de Acessos da CRESOL Confederação, as diretrizes e matrizes são definidas de forma conjunta entre Governança de TI, Negócio, Riscos, Segurança e Prevenção a Fraudes, enquanto a operacionalização ocorre de forma padronizada e auditável.",
           "best_practices": [
             "Respeite os fluxos formais de aprovação definidos pelas políticas e normas internas.",
             "Diferencie claramente pedidos de suporte operacional de solicitações que exigem avaliação de risco ou mudança de regra.",
@@ -1578,7 +1578,7 @@ window.COURSE_DATA = {
             "feedbacks": [
               "Se a própria Operação criar e aprovar regras sozinha para reduzir a fila, elimina-se a avaliação de risco e a segregação de funções, permitindo acessos indevidos sem governança. Tente outra alternativa!",
               "A harmonia e segregação entre Governança (direcionar/monitorar), Gestão (planejar/organizar matrizes) e Operação (executar com rastreabilidade) impede conflitos de interesse e garante conformidade.",
-              "Eliminar políticas formais quebraria a padronização do Sistema Cresol, gerando critérios desiguais e riscos graves nas operações financeiras. Escolha outra opção!"
+              "Eliminar políticas formais quebraria a padronização do Sistema CRESOL, gerando critérios desiguais e riscos graves nas operações financeiras. Escolha outra opção!"
             ]
           },
           "flashcards": [
@@ -1629,7 +1629,7 @@ window.COURSE_DATA = {
               "desc": "Juntos, os três referenciais permitem saber o que deve ser feito (COBIT), como proteger (ISO 27001) e como operar com eficiência (ITIL)."
             }
           ],
-          "cresol_context": "As normas internas da Cresol — como a Norma de Controle de Acesso Lógico e a Política de Governança de Software — incorporam diretamente controles da ISO/IEC 27001 e práticas de COBIT e ITIL, utilizando service desk estruturado para requisições e gestão de mudanças.",
+          "cresol_context": "As normas internas da CRESOL — como a Norma de Controle de Acesso Lógico e a Política de Governança de Software — incorporam diretamente controles da ISO/IEC 27001 e práticas de COBIT e ITIL, utilizando service desk estruturado para requisições e gestão de mudanças.",
           "best_practices": [
             "Utilize sempre a ferramenta oficial de chamados (Service Desk) para solicitações e registro de incidentes.",
             "Compreenda que controles de aprovação e mudança protegem a estabilidade do Sistema Colmeia e demais plataformas.",
@@ -1637,7 +1637,7 @@ window.COURSE_DATA = {
           ],
           "scenario": {
             "situation": "Um colaborador precisa de uma alteração urgente em um sistema corporativo e sugere pedir diretamente por mensagem privada a um conhecido da TI, sem abrir chamado no Service Desk, alegando que 'registrar chamado é apenas burocracia'.",
-            "question": "Com base nas práticas de COBIT, ISO 27001 e ITIL adotadas pela Cresol, como você deve agir?",
+            "question": "Com base nas práticas de COBIT, ISO 27001 e ITIL adotadas pela CRESOL, como você deve agir?",
             "options": [
               "Orientar a abertura formal do chamado no Service Desk, explicando que o registro garante rastreabilidade, avaliação de impacto (ITIL), controle de segurança (ISO 27001) e governança (COBIT).",
               "Apoiar o pedido por mensagem privada, desde que a pessoa prometa abrir o chamado na semana seguinte.",
@@ -1698,7 +1698,7 @@ window.COURSE_DATA = {
               "desc": "Combinamos barreiras tecnológicas, processos bem desenhados e conscientização contínua."
             }
           ],
-          "cresol_context": "No Sistema Cresol, a proteção do core bancário (Colmeia) e do ecossistema cooperativo depende tanto da infraestrutura tecnológica quanto do cumprimento rigoroso dos fluxos de validação pelos gestores e colaboradores.",
+          "cresol_context": "No Sistema CRESOL, a proteção do core bancário (Colmeia) e do ecossistema cooperativo depende tanto da infraestrutura tecnológica quanto do cumprimento rigoroso dos fluxos de validação pelos gestores e colaboradores.",
           "best_practices": [
             "Nunca recorra a atalhos informais para contornar controles de segurança, mesmo em situações de urgência.",
             "Questione processos manuais recorrentes que possam gerar erro operacional e sugira melhorias à equipe responsável.",
@@ -1767,7 +1767,7 @@ window.COURSE_DATA = {
               "desc": "Confirmar de forma inequívoca a identidade de quem criou, acessou ou aprovou uma transação ou informação."
             }
           ],
-          "cresol_context": "Quando configuramos o MFA nas contas Google Cresol, protegemos a Confidencialidade e a Autenticidade; quando segregamos perfis no Sentinela/Colmeia, preservamos a Integridade das operações financeiras e a Disponibilidade dos serviços para as cooperativas.",
+          "cresol_context": "Quando configuramos o MFA nas contas Google CRESOL, protegemos a Confidencialidade e a Autenticidade; quando segregamos perfis no Sentinela/Colmeia, preservamos a Integridade das operações financeiras e a Disponibilidade dos serviços para as cooperativas.",
           "best_practices": [
             "Classifique e trate documentos internos com o cuidado exigido pelo seu nível de confidencialidade.",
             "Bloqueie sua estação de trabalho (Win + L) sempre que se ausentar da mesa.",
@@ -1778,12 +1778,12 @@ window.COURSE_DATA = {
             "question": "Considerando os pilares CIDA (Confidencialidade, Integridade, Disponibilidade e Autenticidade), qual é a conduta segura?",
             "options": [
               "Enviar o arquivo por aplicativo de mensagens pessoal ou link público sem restrição para facilitar a leitura.",
-              "Utilizar exclusivamente os canais corporativos homologados (como o Google Drive/E-mail Cresol), restringindo a permissão de acesso apenas aos destinatários autorizados para preservar a Confidencialidade e a Integridade.",
+              "Utilizar exclusivamente os canais corporativos homologados (como o Google Drive/E-mail CRESOL), restringindo a permissão de acesso apenas aos destinatários autorizados para preservar a Confidencialidade e a Integridade.",
               "Publicar a planilha em uma pasta aberta a todos os colaboradores da rede."
             ],
             "correct": 1,
             "feedbacks": [
-              "Aplicativos pessoais ou links públicos retiram da Cresol o controle sobre quem acessa os dados dos cooperados, violando diretamente a Confidencialidade e a LGPD. Tente outra opção!",
+              "Aplicativos pessoais ou links públicos retiram da CRESOL o controle sobre quem acessa os dados dos cooperados, violando diretamente a Confidencialidade e a LGPD. Tente outra opção!",
               "Restringir o compartilhamento às pessoas autorizadas nos canais oficiais protege a Confidencialidade (acesso restrito) e a Integridade (prevenção contra alterações indevidas).",
               "Deixar dados financeiros e pessoais de cooperados abertos para toda a rede fere o sigilo bancário e o princípio da Confidencialidade. Escolha outra alternativa!"
             ]
@@ -1833,10 +1833,10 @@ window.COURSE_DATA = {
             },
             {
               "title": "Protagonismo no Dia a Dia",
-              "desc": "Cada verificação cuidadosa de acesso e cada reporte preventivo fortalecem todo o Sistema Cresol."
+              "desc": "Cada verificação cuidadosa de acesso e cada reporte preventivo fortalecem todo o Sistema CRESOL."
             }
           ],
-          "cresol_context": "A essência da Cresol é humana, simples e parceira. Nossa cordialidade no relacionamento com cooperados e colegas deve caminhar sempre junto com a confirmação rigorosa de identidade e o respeito aos canais oficiais.",
+          "cresol_context": "A essência da CRESOL é humana, simples e parceira. Nossa cordialidade no relacionamento com cooperados e colegas deve caminhar sempre junto com a confirmação rigorosa de identidade e o respeito aos canais oficiais.",
           "best_practices": [
             "Desconfie de mensagens urgentes solicitando senhas, códigos MFA ou liberações fora do fluxo oficial.",
             "Em caso de dúvida sobre a autenticidade de um pedido, valide por outro canal oficial antes de agir.",
@@ -1847,13 +1847,13 @@ window.COURSE_DATA = {
             "question": "O que você faz nessa situação?",
             "options": [
               "Informa o código rapidamente para evitar ficar sem acesso durante o expediente.",
-              "Recusa-se imediatamente a informar o código MFA, encerra o contato suspeito e reporta a tentativa de engenharia social aos canais oficiais de Segurança da Cresol.",
+              "Recusa-se imediatamente a informar o código MFA, encerra o contato suspeito e reporta a tentativa de engenharia social aos canais oficiais de Segurança da CRESOL.",
               "Pede para a pessoa enviar um link por SMS e digita sua senha nele."
             ],
             "correct": 1,
             "feedbacks": [
               "Informar o código MFA entrega ao golpista a chave que faltava para invadir sua conta corporativa em seu nome. Nunca informe códigos MFA a ninguém! Tente outra opção.",
-              "Nenhuma equipe legítima de TI ou Segurança da Cresol solicita sua senha ou código MFA. A urgência artificial é a marca registrada da engenharia social.",
+              "Nenhuma equipe legítima de TI ou Segurança da CRESOL solicita sua senha ou código MFA. A urgência artificial é a marca registrada da engenharia social.",
               "Clicar em links enviados por SMS suspeito (Smishing) e digitar sua senha compromete imediatamente suas credenciais. Escolha a opção segura!"
             ]
           },
@@ -1894,7 +1894,7 @@ window.COURSE_DATA = {
         },
         {
           "id": "m1_q2",
-          "question": "Como os frameworks COBIT, ISO/IEC 27001 e ITIL se relacionam dentro de um ambiente corporativo maduro como o Sistema Cresol?",
+          "question": "Como os frameworks COBIT, ISO/IEC 27001 e ITIL se relacionam dentro de um ambiente corporativo maduro como o Sistema CRESOL?",
           "options": [
             "Eles são mutuamente exclusivos, devendo a cooperativa escolher apenas um deles e descartar os demais.",
             "Eles se complementam: o COBIT apoia a governança e o alinhamento estratégico de TI, a ISO/IEC 27001 estrutura a gestão de segurança da informação e riscos, e a ITIL organiza o gerenciamento de serviços de TI.",
@@ -1930,7 +1930,7 @@ window.COURSE_DATA = {
         },
         {
           "id": "m1_q5",
-          "question": "Ao receber uma mensagem com forte tom de urgência solicitando a liberação imediata de um acesso fora do fluxo de chamado ou pedindo um código de autenticação (MFA), qual deve ser a conduta do colaborador Cresol?",
+          "question": "Ao receber uma mensagem com forte tom de urgência solicitando a liberação imediata de um acesso fora do fluxo de chamado ou pedindo um código de autenticação (MFA), qual deve ser a conduta do colaborador CRESOL?",
           "options": [
             "Atender imediatamente ao pedido para demonstrar agilidade e depois registrar um chamado retroativo.",
             "Recusar o atalho, nunca informar códigos MFA ou senhas, e orientar a utilização do fluxo oficial validando a solicitação pelos canais institucionais.",
@@ -1938,7 +1938,7 @@ window.COURSE_DATA = {
             "Desativar o segundo fator de autenticação (MFA) para facilitar o trabalho da equipe."
           ],
           "correct": 1,
-          "explanation": "Correto! O senso de urgência é um dos gatilhos mais comuns da engenharia social. No Sistema Cresol, códigos MFA e senhas são pessoais e intransferíveis, e toda liberação deve seguir os fluxos formais de validação."
+          "explanation": "Correto! O senso de urgência é um dos gatilhos mais comuns da engenharia social. No Sistema CRESOL, códigos MFA e senhas são pessoais e intransferíveis, e toda liberação deve seguir os fluxos formais de validação."
         }
       ]
     },
@@ -1974,24 +1974,24 @@ window.COURSE_DATA = {
               "desc": "Permite autenticar de forma padronizada e segura sem multiplicar senhas isoladas em dezenas de sistemas."
             }
           ],
-          "cresol_context": "No Sistema Cresol, utilizamos o ecossistema Google com Dupla Autenticação (MFA) obrigatória e plataformas de identidade como o Keycloak (organizado em Realms, Clients, Users, Roles e Groups) e o Sentinela/Colmeia para centralizar e padronizar a autenticação e a autorização.",
+          "cresol_context": "No Sistema CRESOL, utilizamos o ecossistema Google com Dupla Autenticação (MFA) obrigatória e plataformas de identidade como o Keycloak (organizado em Realms, Clients, Users, Roles e Groups) e o Sentinela/Colmeia para centralizar e padronizar a autenticação e a autorização.",
           "best_practices": [
-            "Mantenha o MFA ativo e atualizado em sua conta Google Cresol e em todos os sistemas homologados.",
-            "Crie senhas fortes com no mínimo 12 caracteres (letras maiúsculas, minúsculas, números e símbolos), evitando nomes próprios ou termos óbvios como 'Cresol'.",
+            "Mantenha o MFA ativo e atualizado em sua conta Google CRESOL e em todos os sistemas homologados.",
+            "Crie senhas fortes com no mínimo 12 caracteres (letras maiúsculas, minúsculas, números e símbolos), evitando nomes próprios ou termos óbvios como 'CRESOL'.",
             "Compreenda que estar autenticado no SSO não significa ter autorização para acessar qualquer módulo: o acesso depende do perfil do seu cargo."
           ],
           "scenario": {
-            "situation": "Ao configurar sua senha e o MFA na conta Google Cresol, um colega comenta que prefere usar `Cresol@2026` como senha padrão em tudo porque é fácil de lembrar.",
-            "question": "De acordo com as orientações de Autenticação e a Norma de Senhas do Sistema Cresol, qual é a recomendação correta?",
+            "situation": "Ao configurar sua senha e o MFA na conta Google CRESOL, um colega comenta que prefere usar `CRESOL@2026` como senha padrão em tudo porque é fácil de lembrar.",
+            "question": "De acordo com as orientações de Autenticação e a Norma de Senhas do Sistema CRESOL, qual é a recomendação correta?",
             "options": [
-              "Usar `Cresol@2026` é seguro porque contém letra maiúscula, símbolo e número.",
-              "Evitar palavras óbvias como 'Cresol', nomes pessoais ou datas; criar uma senha longa (mínimo de 12 caracteres) combinada com frases-chave e manter o MFA sempre ativo.",
+              "Usar `CRESOL@2026` é seguro porque contém letra maiúscula, símbolo e número.",
+              "Evitar palavras óbvias como 'CRESOL', nomes pessoais ou datas; criar uma senha longa (mínimo de 12 caracteres) combinada com frases-chave e manter o MFA sempre ativo.",
               "Anotar a senha em um adesivo colado no monitor para não esquecer."
             ],
             "correct": 1,
             "feedbacks": [
-              "Padrões previsíveis com o nome da instituição + ano (`Cresol@2026`) têm apenas 11 caracteres e são os primeiros testados em ataques automatizados, sendo proibidos pela Norma de Senhas. Tente novamente!",
-              "A Norma de Senhas da Cresol exige no mínimo 12 caracteres e proíbe termos óbvios como 'Cresol' ou sequências previsíveis, somando a proteção do MFA e SSO (Keycloak/Google).",
+              "Padrões previsíveis com o nome da instituição + ano (`CRESOL@2026`) têm apenas 11 caracteres e são os primeiros testados em ataques automatizados, sendo proibidos pela Norma de Senhas. Tente novamente!",
+              "A Norma de Senhas da CRESOL exige no mínimo 12 caracteres e proíbe termos óbvios como 'CRESOL' ou sequências previsíveis, somando a proteção do MFA e SSO (Keycloak/Google).",
               "Deixar senhas visíveis em adesivos no monitor expõe o acesso a qualquer pessoa que circule pelo ambiente físico. Tente outra alternativa!"
             ]
           },
@@ -2004,15 +2004,15 @@ window.COURSE_DATA = {
             },
             {
               "front_tag": "SSO e Keycloak",
-              "front_question": "Qual o papel do Keycloak e do SSO no Sistema Cresol?",
+              "front_question": "Qual o papel do Keycloak e do SSO no Sistema CRESOL?",
               "back_title": "Identidade Centralizada",
               "back_answer": "Permite autenticação padronizada com token seguro (OAuth 2.0 / SAML / OIDC), integrando aplicações corporativas."
             },
             {
-              "front_tag": "Norma de Senhas Cresol",
-              "front_question": "Quais são os requisitos essenciais de uma senha forte na Cresol?",
+              "front_tag": "Norma de Senhas CRESOL",
+              "front_question": "Quais são os requisitos essenciais de uma senha forte na CRESOL?",
               "back_title": "12+ Caracteres e Sem Óbvios",
-              "back_answer": "Mínimo de 12 caracteres misturando letras, números e símbolos, sem usar 'Cresol', datas ou nomes pessoais."
+              "back_answer": "Mínimo de 12 caracteres misturando letras, números e símbolos, sem usar 'CRESOL', datas ou nomes pessoais."
             }
           ]
         },
@@ -2043,7 +2043,7 @@ window.COURSE_DATA = {
               "desc": "Acessos adicionais fora da matriz padrão exigem justificativa formal, análise de risco e aprovação de alçada competente."
             }
           ],
-          "cresol_context": "Na Cresol, as matrizes de acesso por cargo, unidade e posto de atendimento são construídas em conjunto entre Gestão de Acessos, Negócio, Riscos, Segurança e Prevenção a Fraudes, garantindo segregação de funções no Colmeia e nos sistemas corporativos.",
+          "cresol_context": "Na CRESOL, as matrizes de acesso por cargo, unidade e posto de atendimento são construídas em conjunto entre Gestão de Acessos, Negócio, Riscos, Segurança e Prevenção a Fraudes, garantindo segregação de funções no Colmeia e nos sistemas corporativos.",
           "best_practices": [
             "Ao solicitar acesso para um colaborador, peça apenas os perfis necessários às atividades atuais dele, evitando pedir 'acesso igual ao do colega mais antigo'.",
             "Se identificar que possui permissões de sistemas ou módulos que não utiliza mais, solicite a remoção.",
@@ -2079,7 +2079,7 @@ window.COURSE_DATA = {
             },
             {
               "front_tag": "Matriz de Acesso",
-              "front_question": "Como são definidos os perfis padrão no Sistema Cresol?",
+              "front_question": "Como são definidos os perfis padrão no Sistema CRESOL?",
               "back_title": "Construção Conjunta",
               "back_answer": "Definidos entre Gestão de Acessos, Negócio, Riscos, Segurança, Prevenção a Fraudes e Centrais."
             }
@@ -2112,7 +2112,7 @@ window.COURSE_DATA = {
               "desc": "Trilha de auditoria detalhada sobre cada comando ou alteração executada com privilégio elevado."
             }
           ],
-          "cresol_context": "No modelo de governança do Sistema Cresol, acessos críticos e administrativos passam por validações rigorosas, monitoramento contínuo de logs e separação estrita em relação às contas de uso cotidiano.",
+          "cresol_context": "No modelo de governança do Sistema CRESOL, acessos críticos e administrativos passam por validações rigorosas, monitoramento contínuo de logs e separação estrita em relação às contas de uso cotidiano.",
           "best_practices": [
             "Utilize contas administrativas exclusivamente no momento de realizar manutenções ou configurações autorizadas.",
             "Jamais utilize a mesma senha da sua conta padrão em uma conta privilegiada.",
@@ -2181,10 +2181,10 @@ window.COURSE_DATA = {
               "desc": "Projetar controles e monitoramento contínuo para detectar e conter desvios rapidamente."
             }
           ],
-          "cresol_context": "A adoção de SSO centralizado (Keycloak/Google), MFA obrigatório e validação contextual por perfil e unidade no Sistema Cresol reflete diretamente os princípios de Zero Trust na prática.",
+          "cresol_context": "A adoção de SSO centralizado (Keycloak/Google), MFA obrigatório e validação contextual por perfil e unidade no Sistema CRESOL reflete diretamente os princípios de Zero Trust na prática.",
           "best_practices": [
             "Encare as solicitações de confirmação de MFA ou reautenticação como proteções essenciais à sua identidade.",
-            "Acesse sistemas da Cresol apenas a partir de equipamentos e ambientes homologados pela instituição.",
+            "Acesse sistemas da CRESOL apenas a partir de equipamentos e ambientes homologados pela instituição.",
             "Mantenha sistemas operacionais e navegadores sempre atualizados."
           ],
           "scenario": {
@@ -2267,7 +2267,7 @@ window.COURSE_DATA = {
             "correct": 1,
             "feedbacks": [
               "Mesmo que a intenção seja ajudar, usar a senha de outra pessoa invalida a auditoria e fere o Não-Repúdio, além de a conta do titular ser bloqueada nas férias pelo Senior/Sentinela. Tente novamente!",
-              "O compartilhamento de credenciais é proibido nas normas da Cresol, pois destrói a rastreabilidade. Além disso, o registro de férias no Senior bloqueia automaticamente o acesso do titular no Sentinela/Colmeia.",
+              "O compartilhamento de credenciais é proibido nas normas da CRESOL, pois destrói a rastreabilidade. Além disso, o registro de férias no Senior bloqueia automaticamente o acesso do titular no Sentinela/Colmeia.",
               "Contas genéricas compartilhadas impedem saber qual colaborador realizou cada transação e não são permitidas para operação humana. Escolha outra alternativa!"
             ]
           },
@@ -2288,7 +2288,7 @@ window.COURSE_DATA = {
               "front_tag": "Credencial Compartilhada",
               "front_question": "Por que é proibido dividir usuário e senha com colegas?",
               "back_title": "Quebra da Auditoria",
-              "back_answer": "Impede identificar quem realizou cada operação e viola a Norma de Controle de Acesso Lógico da Cresol."
+              "back_answer": "Impede identificar quem realizou cada operação e viola a Norma de Controle de Acesso Lógico da CRESOL."
             }
           ]
         },
@@ -2316,27 +2316,27 @@ window.COURSE_DATA = {
             },
             {
               "title": "Conformidade com a Política de Software",
-              "desc": "Todo software utilizado no Sistema Cresol deve passar por avaliação prévia de segurança, licenciamento e arquitetura."
+              "desc": "Todo software utilizado no Sistema CRESOL deve passar por avaliação prévia de segurança, licenciamento e arquitetura."
             }
           ],
-          "cresol_context": "A Política de Governança de Software do Sistema Cresol veda a instalação ou uso de softwares e serviços em nuvem não homologados, protegendo nossas cooperativas contra vazamentos de dados, malwares e passivos legais.",
+          "cresol_context": "A Política de Governança de Software do Sistema CRESOL veda a instalação ou uso de softwares e serviços em nuvem não homologados, protegendo nossas cooperativas contra vazamentos de dados, malwares e passivos legais.",
           "best_practices": [
-            "Utilize apenas ferramentas, extensões e plataformas oficialmente homologadas pelo Sistema Cresol.",
+            "Utilize apenas ferramentas, extensões e plataformas oficialmente homologadas pelo Sistema CRESOL.",
             "Nunca insira dados corporativos ou de cooperados em ferramentas externas de IA, conversores de PDF online ou nuvens pessoais.",
             "Lembre-se do Não-Repúdio: toda ação realizada na sua sessão autenticada é de sua inteira responsabilidade."
           ],
           "scenario": {
-            "situation": "Para resumir um relatório extenso com dados estratégicos de cooperados e operações de crédito, um colaborador pensa em copiar e colar as informações em um site gratuito de Inteligência Artificial não homologado pela Cresol.",
+            "situation": "Para resumir um relatório extenso com dados estratégicos de cooperados e operações de crédito, um colaborador pensa em copiar e colar as informações em um site gratuito de Inteligência Artificial não homologado pela CRESOL.",
             "question": "Por que essa ação configura 'Shadow IT' e qual é a alternativa correta?",
             "options": [
               "Não há risco algum, pois sites gratuitos na internet não armazenam os textos digitados.",
-              "Configura Shadow IT e risco grave de vazamento de dados sigilosos; o colaborador nunca deve inserir dados corporativos ou de cooperados em ferramentas não homologadas pela Governança de TI e Segurança da Cresol.",
+              "Configura Shadow IT e risco grave de vazamento de dados sigilosos; o colaborador nunca deve inserir dados corporativos ou de cooperados em ferramentas não homologadas pela Governança de TI e Segurança da CRESOL.",
               "Pode ser feito desde que o colaborador apague o histórico do navegador depois."
             ],
             "correct": 1,
             "feedbacks": [
               "Muitas plataformas gratuitas na internet armazenam os textos enviados e os utilizam para treinar modelos públicos, expondo dados sigilosos de cooperados. Tente outra opção!",
-              "A Política de Governança de Software do Sistema Cresol proíbe o uso de ferramentas não homologadas (Shadow IT), especialmente com dados internos ou de cooperados.",
+              "A Política de Governança de Software do Sistema CRESOL proíbe o uso de ferramentas não homologadas (Shadow IT), especialmente com dados internos ou de cooperados.",
               "Apagar o histórico do navegador no computador não remove os dados que já foram enviados para os servidores externos do site não homologado. Tente novamente!"
             ]
           },
@@ -2365,7 +2365,7 @@ window.COURSE_DATA = {
       "quiz": [
         {
           "id": "m2_q1",
-          "question": "Qual alternativa descreve corretamente a diferença entre Autenticação e Autorização nos sistemas corporativos da Cresol?",
+          "question": "Qual alternativa descreve corretamente a diferença entre Autenticação e Autorização nos sistemas corporativos da CRESOL?",
           "options": [
             "Autenticação define quais relatórios o usuário pode emitir, e Autorização é o cadastro inicial no RH.",
             "Autenticação valida a identidade do usuário (confirmando quem ele é, por exemplo via senha e MFA), enquanto Autorização define quais recursos e ações esse usuário autenticado tem permissão para acessar.",
@@ -2401,7 +2401,7 @@ window.COURSE_DATA = {
         },
         {
           "id": "m2_q4",
-          "question": "Por que o uso de credenciais compartilhadas entre dois ou mais colaboradores é proibido pelas normas de segurança do Sistema Cresol?",
+          "question": "Por que o uso de credenciais compartilhadas entre dois ou mais colaboradores é proibido pelas normas de segurança do Sistema CRESOL?",
           "options": [
             "Porque o sistema cobra uma taxa adicional quando duas pessoas digitam a mesma senha.",
             "Porque inviabiliza a identificação individual da autoria das ações, comprometendo a rastreabilidade, a auditoria e o princípio do Não-Repúdio.",
@@ -2421,7 +2421,7 @@ window.COURSE_DATA = {
             "É o processo de autenticação centralizada via Keycloak."
           ],
           "correct": 1,
-          "explanation": "Correto! Shadow IT é o uso de soluções tecnológicas à margem da governança institucional, contrariando a Política de Governança de Software do Sistema Cresol."
+          "explanation": "Correto! Shadow IT é o uso de soluções tecnológicas à margem da governança institucional, contrariando a Política de Governança de Software do Sistema CRESOL."
         }
       ]
     },
@@ -2457,7 +2457,7 @@ window.COURSE_DATA = {
               "desc": "As revisões documentam que a cooperativa mantém controle ativo sobre seus sistemas críticos."
             }
           ],
-          "cresol_context": "No modelo centralizado da Cresol Confederação, a equipe de Gestão de Acessos conduz e apoia as revisões periódicas e validações de acessos críticos com o suporte do Sentinela, cabendo aos gestores confirmar a necessidade real de cada permissão.",
+          "cresol_context": "No modelo centralizado da CRESOL Confederação, a equipe de Gestão de Acessos conduz e apoia as revisões periódicas e validações de acessos críticos com o suporte do Sentinela, cabendo aos gestores confirmar a necessidade real de cada permissão.",
           "best_practices": [
             "Participe ativamente dos ciclos de revisão periódica de acessos da sua equipe, analisando item por item.",
             "Solicite acessos temporários já informando a data prevista de término quando se tratar de atuação em projeto ou substituição.",
@@ -2526,7 +2526,7 @@ window.COURSE_DATA = {
               "desc": "Se houver necessidade de apoio temporário ao setor anterior, essa exceção deve ter prazo curto e data certa para expirar."
             }
           ],
-          "cresol_context": "Na integração entre Senior (RH), Sentinela e Colmeia no Sistema Cresol, os eventos de movimentação funcional atualizam o vínculo do colaborador para que seus grupos e perfis reflitam exclusivamente sua nova atribuição e unidade.",
+          "cresol_context": "Na integração entre Senior (RH), Sentinela e Colmeia no Sistema CRESOL, os eventos de movimentação funcional atualizam o vínculo do colaborador para que seus grupos e perfis reflitam exclusivamente sua nova atribuição e unidade.",
           "best_practices": [
             "Ao promover ou transferir um colaborador de área/PA, verifique se os acessos da função anterior foram encerrados.",
             "Alerta de Segregação de Funções: nunca mantenha acessos operacionais antigos ao assumir funções de controle, análise ou gestão.",
@@ -2595,7 +2595,7 @@ window.COURSE_DATA = {
               "desc": "Durante períodos legais de férias ou licenças, os acessos devem permanecer temporariamente bloqueados."
             }
           ],
-          "cresol_context": "No Sistema Cresol, assim que o RH registra férias, afastamento ou desligamento no sistema Senior, o evento é enviado instantaneamente ao Sentinela, gerando o bloqueio temporário ou a revogação imediata do acesso ao Colmeia, além do disparo dos fluxos para os demais sistemas.",
+          "cresol_context": "No Sistema CRESOL, assim que o RH registra férias, afastamento ou desligamento no sistema Senior, o evento é enviado instantaneamente ao Sentinela, gerando o bloqueio temporário ou a revogação imediata do acesso ao Colmeia, além do disparo dos fluxos para os demais sistemas.",
           "best_practices": [
             "Registre e comunique desligamentos, férias e afastamentos tempestivamente no sistema de origem (Senior).",
             "Não se esqueça de revogar acessos de prestadores de serviço assim que a atividade contratada for concluída.",
@@ -2664,7 +2664,7 @@ window.COURSE_DATA = {
               "desc": "A equipe de Governança e Gestão de Acessos monitora logs de integração para tratar rapidamente qualquer divergência."
             }
           ],
-          "cresol_context": "A arquitetura integrada Senior → Sentinela → Colmeia na Cresol Confederação exemplifica a automação da governança na prática: centraliza o cadastro, aplica bloqueios automáticos em férias/desligamentos e mantém trilha completa de auditoria.",
+          "cresol_context": "A arquitetura integrada Senior → Sentinela → Colmeia na CRESOL Confederação exemplifica a automação da governança na prática: centraliza o cadastro, aplica bloqueios automáticos em férias/desligamentos e mantém trilha completa de auditoria.",
           "best_practices": [
             "Garanta a qualidade e a pontualidade dos dados cadastrais lançados nos sistemas de origem.",
             "Para sistemas que ainda operam via fluxo específico de chamado, siga rigorosamente o formulário e a aprovação do gestor.",
@@ -2672,7 +2672,7 @@ window.COURSE_DATA = {
           ],
           "scenario": {
             "situation": "Um colaborador terá seu período de férias iniciado na próxima segunda-feira, mas o lançamento oficial no sistema Senior (RH) ainda está pendente de regularização cadastral.",
-            "question": "Por que o registro tempestivo dos eventos funcionais no Senior é fundamental para a automação da governança na Cresol?",
+            "question": "Por que o registro tempestivo dos eventos funcionais no Senior é fundamental para a automação da governança na CRESOL?",
             "options": [
               "Porque o Senior envia instantaneamente os eventos ao Sentinela, que aplica automaticamente o bloqueio temporário nas férias/afastamentos ou a revogação imediata no desligamento dentro do Colmeia.",
               "Apenas para fins de cálculo de folha de pagamento, sem relação com os sistemas de TI.",
@@ -2681,20 +2681,20 @@ window.COURSE_DATA = {
             "correct": 0,
             "feedbacks": [
               "A automação Senior → Sentinela → Colmeia depende da qualidade e pontualidade do registro no sistema de origem para aplicar bloqueios e revogações em tempo real.",
-              "No Sistema Cresol, o Senior vai muito além da folha: ele é a fonte oficial que dispara automaticamente os bloqueios e inativações de segurança no Sentinela/Colmeia. Tente outra opção!",
+              "No Sistema CRESOL, o Senior vai muito além da folha: ele é a fonte oficial que dispara automaticamente os bloqueios e inativações de segurança no Sentinela/Colmeia. Tente outra opção!",
               "Sem o lançamento do evento funcional no sistema de origem (Senior), a automação não tem como saber que o colaborador iniciou férias. Escolha a alternativa correta!"
             ]
           },
           "flashcards": [
             {
-              "front_tag": "Fluxo Integrado Cresol",
+              "front_tag": "Fluxo Integrado CRESOL",
               "front_question": "Como funciona a automação Senior → Sentinela → Colmeia?",
               "back_title": "Sincronização Instantânea",
               "back_answer": "Eventos lançados pelo RH no Senior disparam automaticamente ajustes, bloqueios ou revogações no Sentinela e Colmeia."
             },
             {
               "front_tag": "Papel do Sentinela",
-              "front_question": "Qual é a função do Sentinela no ecossistema Cresol?",
+              "front_question": "Qual é a função do Sentinela no ecossistema CRESOL?",
               "back_title": "Administração Central do Colmeia",
               "back_answer": "Centraliza o cadastro, situação funcional, grupos, perfis de acesso e trilhas de auditoria do core bancário Colmeia."
             },
@@ -2733,7 +2733,7 @@ window.COURSE_DATA = {
               "desc": "Após a resolução da emergência, realiza-se a revisão formal das ações executadas, a rotação da senha e o fechamento do registro."
             }
           ],
-          "cresol_context": "No Sistema Cresol, situações críticas nunca justificam 'empréstimo de senha'. Exceções e acessos de emergência seguem rito formal controlado, com justificativa, aprovação e revisão completa pelas equipes de Gestão de Acessos e Segurança.",
+          "cresol_context": "No Sistema CRESOL, situações críticas nunca justificam 'empréstimo de senha'. Exceções e acessos de emergência seguem rito formal controlado, com justificativa, aprovação e revisão completa pelas equipes de Gestão de Acessos e Segurança.",
           "best_practices": [
             "Nunca confunda uma demanda cotidiana atrasada com uma emergência real de Break-Glass.",
             "Se precisar acionar um procedimento emergencial, documente cada passo executado e o horário exato da intervenção.",
@@ -2779,7 +2779,7 @@ window.COURSE_DATA = {
       "quiz": [
         {
           "id": "m3_q1",
-          "question": "Qual é o objetivo central do processo de Recertificação (Revisão Periódica de Acessos) no Sistema Cresol?",
+          "question": "Qual é o objetivo central do processo de Recertificação (Revisão Periódica de Acessos) no Sistema CRESOL?",
           "options": [
             "Renovar automaticamente todos os acessos existentes sem necessidade de análise pelos gestores.",
             "Verificar periodicamente, junto aos gestores e responsáveis, se as permissões ativas de cada usuário continuam necessárias e alinhadas às suas funções atuais, revogando excessos.",
@@ -2803,7 +2803,7 @@ window.COURSE_DATA = {
         },
         {
           "id": "m3_q3",
-          "question": "No modelo integrado do Sistema Cresol (Senior → Sentinela → Colmeia), o que acontece quando o RH registra férias, afastamento ou desligamento de um colaborador no Senior?",
+          "question": "No modelo integrado do Sistema CRESOL (Senior → Sentinela → Colmeia), o que acontece quando o RH registra férias, afastamento ou desligamento de um colaborador no Senior?",
           "options": [
             "Nada acontece até que o próprio colaborador peça o cancelamento do seu usuário por e-mail.",
             "A informação é enviada instantaneamente ao Sentinela, que executa automaticamente o bloqueio temporário (em férias/afastamentos) ou a inativação e revogação imediata do acesso ao Colmeia (no desligamento).",
@@ -2852,7 +2852,7 @@ window.COURSE_DATA = {
           "duration": "06:20",
           "length_sec": 380,
           "video_player": "https://player-vz-a7e961e9-764.tv.pandavideo.com.br/embed/?v=d14c5e27-08d3-4ba4-9d14-e3e8db616ffe",
-          "summary": "Durante muito tempo, o mercado tratou o usuário apenas como 'o elo mais fraco'. Na visão moderna de governança — e na essência cooperativista da Cresol —, colaboradores bem orientados, apoiados por processos claros, tornam-se a nossa primeira e mais inteligente linha de defesa (Human Firewall).",
+          "summary": "Durante muito tempo, o mercado tratou o usuário apenas como 'o elo mais fraco'. Na visão moderna de governança — e na essência cooperativista da CRESOL —, colaboradores bem orientados, apoiados por processos claros, tornam-se a nossa primeira e mais inteligente linha de defesa (Human Firewall).",
           "key_points": [
             {
               "title": "De Alvo Passivo a Agente de Proteção",
@@ -2871,7 +2871,7 @@ window.COURSE_DATA = {
               "desc": "Controles de segurança claros e acessíveis reduzem a tentação de buscar atalhos arriscados."
             }
           ],
-          "cresol_context": "A personalidade da marca Cresol é humana, simples, parceira, conselheira e didática. Levamos exatamente esses valores para a Segurança da Informação: orientar com proximidade para que todos trabalhem com confiança.",
+          "cresol_context": "A personalidade da marca CRESOL é humana, simples, parceira, conselheira e didática. Levamos exatamente esses valores para a Segurança da Informação: orientar com proximidade para que todos trabalhem com confiança.",
           "best_practices": [
             "Pratique a verificação ativa: confira domínios de e-mail, links e solicitações incomuns antes de clicar.",
             "Cuide das informações exibidas na sua tela e em mesas de atendimento presencial nas agências (Mesa Limpa / Tela Limpa).",
@@ -2909,7 +2909,7 @@ window.COURSE_DATA = {
               "front_tag": "Efeito Multiplicador",
               "front_question": "Como fortalecer a segurança na rotina da sua equipe?",
               "back_title": "Orientação Parceira",
-              "back_answer": "Apoiar colegas com dicas práticas e linguagem acessível, seguindo o jeito cooperativo da Cresol."
+              "back_answer": "Apoiar colegas com dicas práticas e linguagem acessível, seguindo o jeito cooperativo da CRESOL."
             }
           ]
         },
@@ -2937,10 +2937,10 @@ window.COURSE_DATA = {
             },
             {
               "title": "Melhoria Contínua dos Controles",
-              "desc": "Cada quase-incidente reportado serve de insumo para aprimorar as defesas do Sistema Cresol."
+              "desc": "Cada quase-incidente reportado serve de insumo para aprimorar as defesas do Sistema CRESOL."
             }
           ],
-          "cresol_context": "Nossos pilares de comunicação e relacionamento baseiam-se na honestidade, transparência e parceria ('estamos sempre juntos'). Reportar rapidamente um erro involuntário é um ato de responsabilidade e lealdade ao Sistema Cresol.",
+          "cresol_context": "Nossos pilares de comunicação e relacionamento baseiam-se na honestidade, transparência e parceria ('estamos sempre juntos'). Reportar rapidamente um erro involuntário é um ato de responsabilidade e lealdade ao Sistema CRESOL.",
           "best_practices": [
             "Se clicar acidentalmente em um link suspeito ou notar comportamento estranho no equipamento, avise imediatamente — nunca tente esconder.",
             "Líderes e gestores devem acolher relatos preventivos de sua equipe, reforçando a confiança e o acionamento rápido do suporte.",
@@ -2948,7 +2948,7 @@ window.COURSE_DATA = {
           ],
           "scenario": {
             "situation": "No meio de uma rotina intensa, um colega clica acidentalmente em um link de e-mail que parecia ser uma cobrança legítima, mas logo percebe que a página era suspeita. Ele fica com receio de avisar a TI por medo de levar uma bronca.",
-            "question": "Com base na Cultura de Não-Culpabilidade (Just Culture) da Cresol, qual é o melhor conselho para esse colega?",
+            "question": "Com base na Cultura de Não-Culpabilidade (Just Culture) da CRESOL, qual é o melhor conselho para esse colega?",
             "options": [
               "Aconselhar que ele fique em silêncio e torça para nada acontecer.",
               "Incentivá-lo a reportar imediatamente à Segurança/TI: na Cultura Justa, o relato rápido de um erro involuntário é acolhido com transparência para permitir a contenção imediata do risco.",
@@ -3009,7 +3009,7 @@ window.COURSE_DATA = {
               "desc": "Não apague mensagens suspeitas nem tente investigar por conta própria; encaminhe os detalhes à equipe técnica."
             }
           ],
-          "cresol_context": "No Sistema Cresol, a equipe de Gestão de Acessos e Segurança da Informação atua de forma centralizada no monitoramento de alertas, bloqueio preventivo de credenciais e tratamento de exceções em conjunto com as Centrais e Cooperativas.",
+          "cresol_context": "No Sistema CRESOL, a equipe de Gestão de Acessos e Segurança da Informação atua de forma centralizada no monitoramento de alertas, bloqueio preventivo de credenciais e tratamento de exceções em conjunto com as Centrais e Cooperativas.",
           "best_practices": [
             "Reporte imediatamente qualquer perda ou roubo de notebook ou celular com acesso corporativo para bloqueio remoto das sessões.",
             "Caso receba um alerta de tentativa de login ou aprovação de MFA que você não iniciou, negue imediatamente e comunique a Segurança.",
@@ -3059,7 +3059,7 @@ window.COURSE_DATA = {
           "duration": "08:08",
           "length_sec": 488,
           "video_player": "https://player-vz-a7e961e9-764.tv.pandavideo.com.br/embed/?v=7c138c30-792b-4824-9d6a-bcf1535df142",
-          "summary": "Concluindo nossa trilha, compreendemos que Governança de TI, Segurança e Gestão de Acessos não são um projeto com data para acabar, mas um ciclo contínuo (PDCA: Planejar, Executar, Verificar e Agir). À medida que o Sistema Cresol cresce, inova e lança novas soluções financeiras, nossa governança evolui junto.",
+          "summary": "Concluindo nossa trilha, compreendemos que Governança de TI, Segurança e Gestão de Acessos não são um projeto com data para acabar, mas um ciclo contínuo (PDCA: Planejar, Executar, Verificar e Agir). À medida que o Sistema CRESOL cresce, inova e lança novas soluções financeiras, nossa governança evolui junto.",
           "key_points": [
             {
               "title": "Ciclo Vivo de Melhoria Contínua",
@@ -3074,27 +3074,27 @@ window.COURSE_DATA = {
               "desc": "Governança madura caminha lado a lado com a estratégia de negócios, impulsionando a inovação com segurança."
             },
             {
-              "title": "Compromisso Permanente Cresol",
-              "desc": "Juntos, preservamos a solidez do Sistema Cresol e a confiança de cada cooperado em todas as regiões do Brasil."
+              "title": "Compromisso Permanente CRESOL",
+              "desc": "Juntos, preservamos a solidez do Sistema CRESOL e a confiança de cada cooperado em todas as regiões do Brasil."
             }
           ],
-          "cresol_context": "Com a centralização e evolução contínua da Gestão de Acessos na Cresol Confederação em parceria com as Centrais, Cooperativas e Agências, construímos um ambiente cada vez mais integrado, transparente e seguro para o futuro do nosso Sistema.",
+          "cresol_context": "Com a centralização e evolução contínua da Gestão de Acessos na CRESOL Confederação em parceria com as Centrais, Cooperativas e Agências, construímos um ambiente cada vez mais integrado, transparente e seguro para o futuro do nosso Sistema.",
           "best_practices": [
-            "Mantenha-se atualizado sobre as revisões das Políticas e Normas de Segurança da Informação do Sistema Cresol.",
+            "Mantenha-se atualizado sobre as revisões das Políticas e Normas de Segurança da Informação do Sistema CRESOL.",
             "Aplique diariamente os princípios de menor privilégio, proteção de credenciais, recertificação e reporte ágil.",
-            "Lembre-se: na Cresol, através da união e do cuidado compartilhado, crescemos todos juntos com segurança."
+            "Lembre-se: na CRESOL, através da união e do cuidado compartilhado, crescemos todos juntos com segurança."
           ],
           "scenario": {
             "situation": "Após concluir todos os treinamentos e revisar as matrizes de acesso do ano, um gestor comenta: 'Pronto, agora nossa Governança de Acessos está 100% terminada e não precisamos mais mexer nisso nos próximos anos.'",
             "question": "Por que a Governança deve ser compreendida como um Ciclo Contínuo?",
             "options": [
-              "Porque o Sistema Cresol evolui constantemente — com novas soluções, integrações, movimentações de pessoas e novas ameaças — exigindo monitoramento, revisão e melhoria contínua (PDCA).",
+              "Porque o Sistema CRESOL evolui constantemente — com novas soluções, integrações, movimentações de pessoas e novas ameaças — exigindo monitoramento, revisão e melhoria contínua (PDCA).",
               "Porque as normas perdem a validade toda sexta-feira.",
               "Na verdade o gestor está certo: governança é um projeto único que nunca muda."
             ],
             "correct": 0,
             "feedbacks": [
-              "A governança é um organismo vivo que acompanha o crescimento sustentável do Sistema Cresol, protegendo nossos cooperados hoje e no futuro.",
+              "A governança é um organismo vivo que acompanha o crescimento sustentável do Sistema CRESOL, protegendo nossos cooperados hoje e no futuro.",
               "As políticas e normas possuem vigência planejada, mas os controles, revisões e monitoramentos de acessos ocorrem de forma contínua conforme o negócio evolui. Tente outra opção!",
               "Tratar a governança como algo estático faz com que as matrizes fiquem rapidamente defasadas diante de novas contratações, sistemas e riscos. Escolha a primeira alternativa!"
             ]
@@ -3108,7 +3108,7 @@ window.COURSE_DATA = {
             },
             {
               "front_tag": "Governança Compartilhada",
-              "front_question": "Quem participa da evolução das regras de acesso na Cresol?",
+              "front_question": "Quem participa da evolução das regras de acesso na CRESOL?",
               "back_title": "União Multidisciplinar",
               "back_answer": "Governança de TI, Gestão de Acessos, Negócio, Riscos, Segurança, Prevenção a Fraudes, Centrais e Gestores."
             },
@@ -3116,7 +3116,7 @@ window.COURSE_DATA = {
               "front_tag": "Compromisso Final",
               "front_question": "Qual é a síntese da nossa trilha de Governança e Segurança?",
               "back_title": "Juntos Crescemos com Segurança",
-              "back_answer": "Cuidar das identidades, respeitar os processos e manter uma cultura transparente protege todo o Sistema Cresol."
+              "back_answer": "Cuidar das identidades, respeitar os processos e manter uma cultura transparente protege todo o Sistema CRESOL."
             }
           ]
         }
@@ -3132,7 +3132,7 @@ window.COURSE_DATA = {
             "Como responsável apenas pela manutenção física dos cabos de rede."
           ],
           "correct": 1,
-          "explanation": "Correto! Colaboradores conscientes e engajados atuam como uma verdadeira barreira ativa de proteção para todo o Sistema Cresol."
+          "explanation": "Correto! Colaboradores conscientes e engajados atuam como uma verdadeira barreira ativa de proteção para todo o Sistema CRESOL."
         },
         {
           "id": "m4_q2",
@@ -3168,11 +3168,11 @@ window.COURSE_DATA = {
             "Porque apenas empresas que sofreram incidentes precisam de governança."
           ],
           "correct": 1,
-          "explanation": "Muito bem! A governança é um processo vivo e contínuo de melhoria, acompanhando a evolução tecnológica e organizacional do Sistema Cresol."
+          "explanation": "Muito bem! A governança é um processo vivo e contínuo de melhoria, acompanhando a evolução tecnológica e organizacional do Sistema CRESOL."
         },
         {
           "id": "m4_q5",
-          "question": "Qual das atitudes abaixo sintetiza corretamente o compromisso de cada colaborador com a Governança de Acessos no Sistema Cresol?",
+          "question": "Qual das atitudes abaixo sintetiza corretamente o compromisso de cada colaborador com a Governança de Acessos no Sistema CRESOL?",
           "options": [
             "Manter senhas fortes e MFA ativos, respeitar o menor privilégio, não compartilhar credenciais, validar revisões de acesso com rigor e reportar rapidamente qualquer suspeita de incidente.",
             "Aprovar qualquer pedido de acesso sem ler para acelerar o atendimento interno.",
@@ -3180,7 +3180,7 @@ window.COURSE_DATA = {
             "Instalar programas particulares no computador da cooperativa sempre que achar conveniente."
           ],
           "correct": 0,
-          "explanation": "Parabéns! Essa postura integra todos os pilares que estudamos nos 4 módulos e fortalece diariamente a segurança e a confiança do Sistema Cresol."
+          "explanation": "Parabéns! Essa postura integra todos os pilares que estudamos nos 4 módulos e fortalece diariamente a segurança e a confiança do Sistema CRESOL."
         }
       ]
     }
@@ -3200,7 +3200,7 @@ window.COURSE_DATA = {
     },
     {
       "id": "m1_q2",
-      "question": "Como os frameworks COBIT, ISO/IEC 27001 e ITIL se relacionam dentro de um ambiente corporativo maduro como o Sistema Cresol?",
+      "question": "Como os frameworks COBIT, ISO/IEC 27001 e ITIL se relacionam dentro de um ambiente corporativo maduro como o Sistema CRESOL?",
       "options": [
         "Eles são mutuamente exclusivos, devendo a cooperativa escolher apenas um deles e descartar os demais.",
         "Eles se complementam: o COBIT apoia a governança e o alinhamento estratégico de TI, a ISO/IEC 27001 estrutura a gestão de segurança da informação e riscos, e a ITIL organiza o gerenciamento de serviços de TI.",
@@ -3236,7 +3236,7 @@ window.COURSE_DATA = {
     },
     {
       "id": "m1_q5",
-      "question": "Ao receber uma mensagem com forte tom de urgência solicitando a liberação imediata de um acesso fora do fluxo de chamado ou pedindo um código de autenticação (MFA), qual deve ser a conduta do colaborador Cresol?",
+      "question": "Ao receber uma mensagem com forte tom de urgência solicitando a liberação imediata de um acesso fora do fluxo de chamado ou pedindo um código de autenticação (MFA), qual deve ser a conduta do colaborador CRESOL?",
       "options": [
         "Atender imediatamente ao pedido para demonstrar agilidade e depois registrar um chamado retroativo.",
         "Recusar o atalho, nunca informar códigos MFA ou senhas, e orientar a utilização do fluxo oficial validando a solicitação pelos canais institucionais.",
@@ -3244,7 +3244,7 @@ window.COURSE_DATA = {
         "Desativar o segundo fator de autenticação (MFA) para facilitar o trabalho da equipe."
       ],
       "correct": 1,
-      "explanation": "Correto! O senso de urgência é um dos gatilhos mais comuns da engenharia social. No Sistema Cresol, códigos MFA e senhas são pessoais e intransferíveis, e toda liberação deve seguir os fluxos formais de validação."
+      "explanation": "Correto! O senso de urgência é um dos gatilhos mais comuns da engenharia social. No Sistema CRESOL, códigos MFA e senhas são pessoais e intransferíveis, e toda liberação deve seguir os fluxos formais de validação."
     }
   ],
   "final_exam": {
@@ -3713,8 +3713,8 @@ window.COURSE_DATA = {
     },
     {
       "term": "Colmeia",
-      "category": "Sistema Cresol",
-      "desc": "Sistema core bancário e cooperativo do Sistema Cresol, cujos usuários, grupos e perfis são administrados de forma centralizada pelo Sentinela."
+      "category": "Sistema CRESOL",
+      "desc": "Sistema core bancário e cooperativo do Sistema CRESOL, cujos usuários, grupos e perfis são administrados de forma centralizada pelo Sentinela."
     },
     {
       "term": "Conta de Serviço",
@@ -3748,8 +3748,8 @@ window.COURSE_DATA = {
     },
     {
       "term": "Keycloak (SSO)",
-      "category": "Sistema Cresol",
-      "desc": "Plataforma centralizada de gerenciamento de identidade e acesso usada na Cresol para Single Sign-On (SSO), organizando Realms, Clients, Roles e Groups."
+      "category": "Sistema CRESOL",
+      "desc": "Plataforma centralizada de gerenciamento de identidade e acesso usada na CRESOL para Single Sign-On (SSO), organizando Realms, Clients, Roles e Groups."
     },
     {
       "term": "Menor Privilégio (Least Privilege)",
@@ -3793,7 +3793,7 @@ window.COURSE_DATA = {
     },
     {
       "term": "Sentinela",
-      "category": "Sistema Cresol",
+      "category": "Sistema CRESOL",
       "desc": "Plataforma central de administração de usuários, grupos, perfis e situação cadastral do sistema Colmeia, integrada em tempo real aos eventos do Senior (RH)."
     },
     {

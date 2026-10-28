@@ -1,5 +1,5 @@
 /**
- * Aplicação Interativa SCORM 1.2 - Sistema Cresol
+ * Aplicação Interativa SCORM 1.2 - Sistema CRESOL
  * Governança de TI, Segurança e Gestão de Acessos
  */
 (function () {
@@ -14,7 +14,7 @@
   var liveDurations = {};
   var COMPLETION_THRESHOLD_PCT = 85; // Marca a aula como concluída automaticamente aos 85%
 
-  // Ícones SVG em linha fina (2px) e pontas arredondadas (Padrão Brandbook Cresol Pág. 26)
+  // Ícones SVG em linha fina (2px) e pontas arredondadas (Padrão Brandbook CRESOL Pág. 26)
   var ICONS = {
     check: '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>',
     play: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>',
@@ -610,7 +610,7 @@
   }
 
   function renderWelcomeStage(container) {
-    var learnerName = window.ScormManager ? window.ScormManager.getLearnerName() : 'Colaborador(a) Cresol';
+    var learnerName = window.ScormManager ? window.ScormManager.getLearnerName() : 'Colaborador(a) CRESOL';
     var doneCount = getCompletedLessonsCount();
     var totalLessons = (course.lessons || []).length;
     var resumeIdx = state.currentLessonIndex || 0;
@@ -667,13 +667,13 @@
     container.innerHTML =
       '<div class="welcome-hero">' +
         '<div class="welcome-greeting-pill">' +
-          ICONS.shield + ' <span>Educação Corporativa • Sistema Cresol</span>' +
+          ICONS.shield + ' <span>Educação Corporativa • Sistema CRESOL</span>' +
         '</div>' +
         '<h1 class="welcome-hero-title">' +
           'Olá, ' + escapeHtml(learnerName) + '! Seja muito bem-vindo(a) à nossa trilha de Governança de TI, Segurança e Gestão de Acessos.' +
         '</h1>' +
         '<p class="welcome-hero-desc">' +
-          'Na Cresol, a confiança dos nossos cooperados é o nosso maior patrimônio. Preparamos este curso interativo para que você compreenda, de forma leve, prática e conectada ao nosso dia a dia, como protegemos dados, identidades e sistemas em toda a cooperativa.' +
+          'Na CRESOL, a confiança dos nossos cooperados é o nosso maior patrimônio. Preparamos este curso interativo para que você compreenda, de forma leve, prática e conectada ao nosso dia a dia, como protegemos dados, identidades e sistemas em toda a cooperativa.' +
         '</p>' +
         '<div class="welcome-stats-row">' +
           '<div class="welcome-stat-chip"><strong>4</strong> Módulos Temáticos</div>' +
@@ -712,7 +712,7 @@
         '</div>' +
         '<div class="welcome-element-card">' +
           '<div class="welcome-element-icon">' + ICONS.compass + '</div>' +
-          '<div class="welcome-element-title">3. Desafio "O que você faria na Cresol?"</div>' +
+          '<div class="welcome-element-title">3. Desafio "O que você faria na CRESOL?"</div>' +
           '<p class="welcome-element-desc">Vivencie situações reais do cotidiano das agências e da TI (Sentinela, Colmeia, VPN, Break-Glass e LGPD) com feedback imediato sobre riscos e boas práticas.</p>' +
         '</div>' +
         '<div class="welcome-element-card">' +
@@ -1000,7 +1000,7 @@
     return (
       '<div class="scenario-card' + (isCorrect ? ' solved' : '') + '" id="lesson-scenario-card">' +
         '<div class="scenario-badge">' +
-          ICONS.compass + ' <span>Desafio Prático • O que você faria na Cresol?</span>' +
+          ICONS.compass + ' <span>Desafio Prático • O que você faria na CRESOL?</span>' +
         '</div>' +
         '<div class="scenario-situation-box">' +
           '<strong>Situação Real:</strong> ' + escapeHtml(sc.situation) +
@@ -1044,7 +1044,7 @@
       '<div class="keypoints-grid">' + kpHtml + '</div>' +
 
       '<div class="cresol-context-banner">' +
-        '<div class="cresol-context-tag">Aplicação Prática • Sistema Cresol</div>' +
+        '<div class="cresol-context-tag">Aplicação Prática • Sistema CRESOL</div>' +
         '<h3 style="font-size:18px;font-weight:800;margin-bottom:8px;position:relative;z-index:1;">Como este tema funciona no nosso dia a dia</h3>' +
         '<p class="cresol-context-text">' + escapeHtml(lesson.cresol_context) + '</p>' +
       '</div>' +
@@ -1168,7 +1168,7 @@
       });
     });
 
-    // Bind Scenario Options ("O que você faria na Cresol?")
+    // Bind Scenario Options ("O que você faria na CRESOL?")
     var scenarioBtns = document.querySelectorAll('[data-scenario-opt]');
     scenarioBtns.forEach(function (btn) {
       btn.addEventListener('click', function () {
@@ -1339,7 +1339,7 @@
 
     container.innerHTML =
       '<div class="quiz-hero">' +
-        '<div class="sidebar-module-tag">Avaliação de Fixação • Sistema Cresol</div>' +
+        '<div class="sidebar-module-tag">Avaliação de Fixação • Sistema CRESOL</div>' +
         '<h1 style="font-size:26px;font-weight:800;margin-bottom:8px;position:relative;z-index:1;">' +
           'Quiz de Fixação — ' + escapeHtml(activeQuiz.shortTitle) +
         '</h1>' +
@@ -1708,7 +1708,7 @@
 
     container.innerHTML =
       '<div class="quiz-hero">' +
-        '<div class="sidebar-module-tag">Consolidação de Aprendizado • Sistema Cresol</div>' +
+        '<div class="sidebar-module-tag">Consolidação de Aprendizado • Sistema CRESOL</div>' +
         '<h1 style="font-size:26px;font-weight:800;margin-bottom:8px;position:relative;z-index:1;">' +
           escapeHtml(exam.title) +
         '</h1>' +
@@ -2017,7 +2017,7 @@
     var html =
       '<div class="print-header">' +
         '<div>' +
-          '<img src="assets/cresol-logo.svg" alt="Cresol" style="height:32px;margin-bottom:6px;">' +
+          '<img src="assets/cresol-logo.svg" alt="CRESOL" style="height:32px;margin-bottom:6px;">' +
           '<div style="font-size:11px;color:#727176;text-transform:uppercase;letter-spacing:0.12em;">Governança de TI, Segurança e Gestão de Acessos</div>' +
         '</div>' +
         '<div style="text-align:right;font-size:12px;color:#4D4D4F;">' +
@@ -2034,7 +2034,7 @@
         '<div class="print-lesson-block">' +
           '<h3>Aula ' + escapeHtml(l.code) + ' — ' + escapeHtml(l.title) + ' (' + escapeHtml(l.duration) + ')</h3>' +
           '<p style="font-size:12.5px;color:#181D1B;margin-bottom:6px;">' + escapeHtml(l.summary) + '</p>' +
-          '<p style="font-size:12px;color:#005C46;"><strong>Sistema Cresol:</strong> ' + escapeHtml(l.cresol_context) + '</p>' +
+          '<p style="font-size:12px;color:#005C46;"><strong>Sistema CRESOL:</strong> ' + escapeHtml(l.cresol_context) + '</p>' +
           '<div class="print-note-box">' +
             '<strong>Minhas Anotações:</strong>\n' +
             (noteTxt ? escapeHtml(noteTxt) : 'Sem anotações registradas nesta aula.') +

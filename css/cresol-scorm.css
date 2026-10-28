@@ -1,6 +1,6 @@
 /* ==========================================================================
    SISTEMA CRESOL - IDENTIDADE VISUAL OFICIAL (MANUAL DA MARCA V.1 - 2021)
-   Cores Primárias: Laranja Cresol (#F58220) e Verde Cresol (#005C46)
+   Cores Primárias: Laranja CRESOL (#F58220) e Verde CRESOL (#005C46)
    Cores Secundárias: Cinza Médio (#727176), Cinza Claro (#D0D0CE), Branco (#FFFFFF)
    Cores de Apoio: #084D34, #133118, #397039, #34B552, #E45125, #F9A832, #FEC92F, #F7E8BE
    Tipografia: Bw Modelica / Plus Jakarta Sans / Verdana (Tipografia de Sistema)
@@ -928,7 +928,7 @@ html, body {
   line-height: 1.6;
 }
 
-/* Destaque Aplicação no Sistema Cresol */
+/* Destaque Aplicação no Sistema CRESOL */
 .cresol-context-banner {
   position: relative;
   background: linear-gradient(135deg, var(--cresol-green) 0%, var(--cresol-green-dark) 100%);

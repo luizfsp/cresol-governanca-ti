@@ -1,6 +1,6 @@
 /**
  * Gerenciador de Estado Local (Versão Web de Validação - Sem comunicação com LMS)
- * Sistema Cresol - Governança de TI, Segurança e Gestão de Acessos
+ * Sistema CRESOL - Governança de TI, Segurança e Gestão de Acessos
  */
 (function (window) {
   'use strict';
@@ -54,7 +54,7 @@
     finish: function () {},
 
     getLearnerName: function () {
-      return 'Colaborador(a) Cresol';
+      return 'Colaborador(a) CRESOL';
     },
 
     notifyStatus: function () {}
