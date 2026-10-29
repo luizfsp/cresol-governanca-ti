@@ -2166,6 +2166,15 @@
         if (sb) sb.classList.toggle('open');
       });
     }
+    var mainStageEl = document.getElementById('main-stage-content');
+    if (mainStageEl) {
+      mainStageEl.addEventListener('click', function () {
+        var sb = document.getElementById('course-sidebar');
+        if (sb && sb.classList.contains('open')) {
+          sb.classList.remove('open');
+        }
+      });
+    }
 
     var openGlossaryBtn = document.getElementById('btn-open-glossary');
     if (openGlossaryBtn) {
